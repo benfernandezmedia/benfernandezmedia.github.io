@@ -16,7 +16,6 @@ theme:
     - navigation.expand
     - navigation.indexes
     - navigation.top
-    - navigation.footer
 plugins:
   - search
   - blog:
