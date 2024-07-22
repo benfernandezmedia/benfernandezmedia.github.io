@@ -1,0 +1,15 @@
+authors:
+  benfernandezmedia:
+    name: Benjamin Fernandez
+    description: Digital artist, Blog author
+    avatar: https://github.com/benfernandezmedia.png
+
+  amira:
+    name: Amira Fernandez
+    description: Official updates for Afterzone Nova
+    avatar: assets/amira_profile.png
+
+  crystal:
+    name: Crystal Ashiro
+    description: Official updates for Unfragmented
+    avatar: assets/crystal_profile.png
