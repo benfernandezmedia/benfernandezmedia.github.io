@@ -1,5 +1,4 @@
 ---
-draft: true
 date: 2024-07-22
 authors:
   - benfernandezmedia
