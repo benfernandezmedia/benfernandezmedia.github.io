@@ -1,0 +1,40 @@
+site_name: Benjamin Fernandez Media
+site_url: https://benfernandezmedia.github.io
+theme:
+  name: material
+  palette: 
+    scheme: slate
+    primary: black
+    accent: cyan
+  language: en
+  favicon: assets/favicon.png
+  logo: assets/images/logo.png
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+plugins:
+  - search
+  - blog:
+      blog_dir: .
+  - tags
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/benfernandezmedia
+    - icon: fontawesome/brands/github
+      link: https://github.com/benfernandezmedia
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@benfernandezmedia
+    - icon: fontawesome/brands/pinterest
+      link: https://pinterest.com/benfernandezmedia
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+copyright: © 2024 Benjamin Fernandez, All rights reserved.
