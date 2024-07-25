@@ -2,6 +2,7 @@ site_name: Benjamin Fernandez Media
 site_url: https://benfernandezmedia.github.io/
 theme:
   name: material
+  custom_dir: overrides
   palette: 
 
     # Palette toggle for automatic mode
@@ -43,6 +44,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - announce.dismiss
 plugins:
   - search
   - blog:
