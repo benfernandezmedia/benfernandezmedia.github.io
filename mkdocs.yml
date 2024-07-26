@@ -61,6 +61,8 @@ extra:
       link: https://youtube.com/@benfernandezmedia
     - icon: fontawesome/brands/pinterest
       link: https://pinterest.com/benfernandezmedia
+  status:
+    new: Recently added
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
