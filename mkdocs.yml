@@ -30,7 +30,20 @@ theme:
         name: Switch to light mode
       primary: black
       accent: cyan
-    
+  icon:
+    admonition:
+      note: material/pencil-circle
+      abstract: material/clipboard-text
+      info: material/information
+      tip: material/fire
+      success: material/check
+      question: material/help-circle
+      warning: material/alert
+      failure: material/close
+      danger: material/lightning-bolt-circle
+      bug: material/shield-bug
+      example: material/test-tube
+      quote: material/format-quote-close
   language: en
   favicon: assets/favicon.png
   logo: assets/images/logo.png
@@ -65,6 +78,19 @@ extra:
     new: Recently added
 markdown_extensions:
   - attr_list
+  - md_in_html
+  - def_list
+  - admonition
+  - footnotes
+  - pymdownx.superfences
+  - pymdownx.details
+  - tables
+  - pymdownx.keys:
+      separator: +
+      strict: false
+      camel_case: false
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
