@@ -1,7 +1,6 @@
 ---
 hide:
   - navigation
-  - toc
 icon: fontawesome/solid/house
 ---
 
