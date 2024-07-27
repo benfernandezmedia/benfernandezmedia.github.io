@@ -12,7 +12,7 @@ slug: launchingtheblog
 ---
 
 # **Launching The Blog**
-![Blog](/assets/images/blog_banner.png)
+![Blog](../assets/images/blog_banner.png)
 
 As you saw the link on the Instagram story, it's official that I have opened up a blog site! **No paying for hosting, no hard HTML, CSS, and JS coding, NO BS!** Just a straight up site built with Mkdocs Material and powering the site with GitHub Pages for free! :smile:
 
