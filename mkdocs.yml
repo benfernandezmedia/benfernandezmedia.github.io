@@ -64,6 +64,7 @@ plugins:
       blog_dir: .
       archive_date_format: MMMM yyyy
       pagination: true
+      pagination_per_page: 4
   - tags
 extra:
   social:
