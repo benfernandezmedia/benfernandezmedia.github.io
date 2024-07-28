@@ -65,6 +65,7 @@ plugins:
       archive_date_format: MMMM yyyy
       pagination: true
       pagination_per_page: 4
+      post_excerpt: optional
   - tags
 extra:
   social:
