@@ -15,6 +15,8 @@ slug: enhancingtheblog
 
 The blog was recently updated with the addition of features applied to the Mkdocs Material framework. Some HTML was applied like the announce box reminding you that the site is currently in construction, in terms of the features that I apply to the site's framework.
 
+<!-- more -->
+
 Here are the features that were added into the framework to enhance the post's interactions:
 
 - Added global navigation features such as Search Suggestions

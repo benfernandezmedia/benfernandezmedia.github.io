@@ -16,6 +16,8 @@ slug: launchingtheblog
 
 As you saw the link on the Instagram story, it's official that I have opened up a blog site! **No paying for hosting, no hard HTML, CSS, and JS coding, NO BS!** Just a straight up site built with Mkdocs Material and powering the site with GitHub Pages for free! :smile:
 
+<!-- more -->
+
 ## But what's the catch on this site?
 With this blog, I will be able to post articles regarding content I publish on Instagram, Cara and on YouTube. Updates for the Afterzone Nova Discord server will also be here as well, but under a different post author. Eventually, updates regarding Unfragmented will appear too (if the project is still being worked, but it's saved for now).
 
