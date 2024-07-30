@@ -1,5 +1,7 @@
 ---
-date: 2024-07-27
+date: 
+  created: 2024-07-27
+  updated: 2024-07-29
 tags:
   - unfragmented
   - savedproject
@@ -22,7 +24,7 @@ On the previous post that I published, I announced that the blog has new feature
 ## What is Unfragmented?
 ***Unfragmented*** is a prototype project, which is considered as a visual novel game, that tells a story with this synopsis:
 
-*After starting to live on Earth a year later, a young female alien suffers a life-threatening where her mind is shattering, causing her memories to break apart in a painful way. With the help of her new friends on Earth, it is her mission to travel inside of the mind space to restore her memories to it's original state. While doing that, she also discovers secrets behind her past life, revealing the truth that leads to the events of her mother's mysterious death.*
+*After starting to live on Earth a year later, a young female alien suffers a life-threatening condition where her mind is shattering, causing her memories to break apart in a painful way. With the help of her new friends on Earth, it is her mission to travel inside of the mind space to restore her memories to it's original state. While doing that, she also discovers secrets behind her past life, revealing the truth that leads to the events of her mother's mysterious death.*
 
 This is also my first attempt on creating a video game that features an original story that I've written but I only wrote the prologue and chapter 1 for the prototype and it's original concept of creating a story for one of my flagship characters.
 
