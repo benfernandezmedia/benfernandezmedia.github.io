@@ -1,5 +1,7 @@
 ---
-date: 2024-07-22
+date: 
+  created: 2024-07-22
+  updated: 2024-07-29
 authors:
   - benfernandezmedia
 categories:
@@ -11,7 +13,7 @@ tags:
 slug: launchingtheblog
 ---
 
-# **Launching The Blog**
+# Launching The Blog
 ![Blog](../assets/images/blog_banner.png)
 
 As you saw the link on the Instagram story, it's official that I have opened up a blog site! **No paying for hosting, no hard HTML, CSS, and JS coding, NO BS!** Just a straight up site built with Mkdocs Material and powering the site with GitHub Pages for free! :smile:
