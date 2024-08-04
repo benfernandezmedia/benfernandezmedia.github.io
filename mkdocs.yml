@@ -63,6 +63,7 @@ plugins:
   - search
   - blog:
       blog_dir: .
+      archive: true
       archive_date_format: MMMM yyyy
       pagination: true
       pagination_per_page: 4
