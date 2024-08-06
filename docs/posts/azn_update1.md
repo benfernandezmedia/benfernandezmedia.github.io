@@ -26,6 +26,8 @@ The roles that you're assigned in the server, it will stay the same! No changes 
 
 For prevention of the server's security being breached like members who join in to spam and cause havoc, the invites will be paused for 24 hours, it may vary on how much time we put on in the changes we will be performing.
 
+<!-- more -->
+
 ## What about you as a webhook, Amira?
 For me, I will still be around in the server but I will be posting my updates that I written on the blog there, redirecting all members to the blog site where the post is made.
 
