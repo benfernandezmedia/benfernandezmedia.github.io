@@ -1,5 +1,4 @@
 ---
-draft: true
 date: 2024-08-04
 authors:
   - amira
