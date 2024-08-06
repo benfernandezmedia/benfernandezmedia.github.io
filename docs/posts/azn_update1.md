@@ -1,5 +1,7 @@
 ---
-date: 2024-08-04
+date: 
+  created: 2024-08-04
+  updated: 2024-08-05
 authors:
   - amira
 categories:
