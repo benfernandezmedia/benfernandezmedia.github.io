@@ -75,7 +75,6 @@ plugins:
         as_creation: date
       categories:
         - categories
-        - tags
 extra:
   social:
     - icon: fontawesome/brands/instagram
