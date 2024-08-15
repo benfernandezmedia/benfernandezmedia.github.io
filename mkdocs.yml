@@ -69,12 +69,6 @@ plugins:
       pagination_per_page: 4
       post_excerpt: optional
   - tags
-  - rss:
-      match_path: /posts/.*
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
 extra:
   social:
     - icon: fontawesome/brands/instagram
