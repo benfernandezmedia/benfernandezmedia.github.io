@@ -3,7 +3,6 @@ site_description: Official blog of Benjamin Fernandez Media
 site_author: Benjamin Fernandez
 site_url: https://benfernandezmedia.github.io/
 repo_url: https://github.com/benfernandezmedia/benfernandezmedia.github.io
-edit_uri: edit/main/docs/
 theme:
   name: material
   custom_dir: overrides
