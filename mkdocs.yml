@@ -1,6 +1,8 @@
 site_name: Benjamin Fernandez Media
 site_description: Official blog of Benjamin Fernandez Media
+site_author: Benjamin Fernandez
 site_url: https://benfernandezmedia.github.io/
+repo_url: https://github.com/benfernandezmedia/benfernandezmedia.github.io
 theme:
   name: material
   custom_dir: overrides
@@ -60,6 +62,25 @@ theme:
     - search.share
     - announce.dismiss
 plugins:
+  - rss:
+      abstract_chars_count: 160
+      abstract_delimiter: <!-- more -->
+      comments_path: "null"
+      enabled: true
+      feed_ttl: 1440
+      image: "null"
+      json_feed_enabled: true
+      length: 20
+      match_path: /posts/.*
+      pretty_print: false
+      rss_feed_enabled: true
+      use_git: true
+      use_material_social_cards: true
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
   - search
   - blog:
       blog_dir: .
