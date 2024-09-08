@@ -5,74 +5,11 @@ site_url: https://benfernandezmedia.github.io/
 repo_url: https://github.com/benfernandezmedia/benfernandezmedia.github.io
 theme:
   name: material
-  custom_dir: overrides
-  palette: 
-
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
-      primary: black
-      accent: cyan
-
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-      primary: black
-      accent: cyan
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-      primary: black
-      accent: cyan
-  icon:
-    repo: fontawesome/brands/github
-    admonition:
-      note: material/pencil-circle
-      abstract: material/clipboard-text
-      info: material/information
-      tip: material/fire
-      success: material/check
-      question: material/help-circle
-      warning: material/alert
-      failure: material/close
-      danger: material/lightning-bolt-circle
-      bug: material/shield-bug
-      example: material/test-tube
-      quote: material/format-quote-close
   language: en
   favicon: assets/favicon.png
   logo: assets/images/logo.png
   features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.expand
-    - navigation.indexes
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - search.share
-    - announce.dismiss
     - content.action.view
-plugins:
-  - search
-  - blog:
-      blog_dir: .
-      archive: true
-      archive_date_format: MMMM yyyy
-      pagination: true
-      pagination_per_page: 4
-      post_excerpt: optional
-  - tags
 extra:
   social:
     - icon: fontawesome/brands/instagram
@@ -83,8 +20,6 @@ extra:
       link: https://youtube.com/@benfernandezmedia
     - icon: fontawesome/brands/pinterest
       link: https://pinterest.com/benfernandezmedia
-  status:
-    new: Recently added
 markdown_extensions:
   - attr_list
   - md_in_html
