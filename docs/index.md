@@ -1,5 +1,4 @@
 ![Logo](../assets/images/blog_banner.png)
-<center> Welcome to the blog! Come back to the site from time-to-time to get the latest updates.</center>
 <center> **Want content from Benjamin Fernandez Media?** Check out the socials below.</center>
 
 <!--Newer version -->
@@ -38,7 +37,3 @@
     [Get inspired! :octicons-arrow-right-24:](https://pinterest.com/benfernandezmedia)
 
 </div>
-
-!!! info "Where all the blog posts here?"
-
-    All blog posts were removed as the site is being redone with fresh code! Please check back often.
