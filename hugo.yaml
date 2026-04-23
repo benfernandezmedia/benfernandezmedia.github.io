@@ -47,7 +47,7 @@ menu:
         icon: github
 
     - name: Patreon
-      url: https://www.patreon.com/benfernandezmedia
+      url: https://www.patreon.com/bfmextras
       parent: socials
       params:
         type: link
