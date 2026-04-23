@@ -1,0 +1,124 @@
+baseURL: https://benfernandezmedia.github.io/
+locale: en-US
+title: Benjamin Fernandez Media
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+# Menu Configuration - Main Navigation with Nested Social Links and Search/Theme Toggle
+menu:
+  main:
+    - name: Creator's Blog
+      pageRef: /blog
+      params:
+        type: link
+        icon: rss
+      weight: 1
+
+    - name: Portfolio
+      url: https://cara.app/benfernandezmedia
+      params:
+        type: link
+        icon: folder
+      weight: 2
+
+    # Nested Menu - Socials
+    - identifier: socials
+      name: Socials
+      params:
+        type: link
+        icon: users
+      weight: 3
+
+    # Social Links - Nested under Socials
+    - name: Instagram
+      url: https://www.instagram.com/benfernandezmedia/
+      parent: socials
+      params:
+        type: link
+        icon: instagram
+
+    - name: GitHub
+      url: https://github.com/benfernandezmedia
+      parent: socials
+      params:
+        type: link
+        icon: github
+
+    - name: Patreon
+      url: https://www.patreon.com/benfernandezmedia
+      parent: socials
+      params:
+        type: link
+        icon: patreon
+    
+    - name: YouTube
+      url: https://www.youtube.com/@benfernandezmedia
+      parent: socials
+      params:
+        type: link
+        icon: youtube
+
+    # Search Bar - Main Website Search Box
+    - name: Search
+      params:
+        type: search
+      weight: 4
+
+    # Theme Toggle - Light/Dark Mode Switch
+    - name: Theme Toggle
+      params:
+        type: theme-toggle
+      weight: 5
+
+# Hugo Parameters - Custom Site Settings
+params:
+  # Markup Settings
+  markup:
+    goldmark:
+      renderer:
+        unsafe: true
+    highlight:
+      noClasses: false
+
+  # Image Zoom Settings - Enable Zoom on Images with Custom Options
+  imageZoom:
+    enable: true
+
+  # Blog Settings - Custom Configuration for Blog Layout and Display
+  blog:
+    list:
+      displayTags: true
+  toc:
+    displayTags: true
+
+  # Page Settings - Custom Configuration for Page Layout and Display
+  page:
+    width: wide
+
+  # Navigation Bar Settings
+  navbar:
+    displayLogo: true
+    displayTitle: false
+    width: wide
+
+    # Logo Configuration - Custom Logo for the Site
+    logo:
+      path: images/bfm-logo.svg
+      dark: images/bfm-logoDark.svg
+      link: /
+      width: 230
+      height: 20
+
+  theme:
+    # Default will be set to system, toggle will be available in the navbar!
+    default: system
+    displayToggle: false
+
+  # Footer Settings - Custom Footer Configuration
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: true
+    width: wide
