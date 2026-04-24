@@ -47,7 +47,7 @@ menu:
         icon: github
 
     - name: Patreon
-      url: https://www.patreon.com/bfmextras
+      url: https://www.patreon.com/benfernandezmedia
       parent: socials
       params:
         type: link
@@ -60,17 +60,33 @@ menu:
         type: link
         icon: youtube
 
+    # Nested Menu - Help
+    - identifier: help
+      name: Help
+      params:
+        type: link
+        icon: question-mark-circle
+      weight: 4
+
+    # Help Links - Nested under Help
+    - name: Questions and Answers
+      url: /faq
+      params:
+        type: link
+        icon: question-mark-circle
+      parent: help
+
     # Search Bar - Main Website Search Box
     - name: Search
       params:
         type: search
-      weight: 4
+      weight: 5
 
     # Theme Toggle - Light/Dark Mode Switch
     - name: Theme Toggle
       params:
         type: theme-toggle
-      weight: 5
+      weight: 6
 
 # Hugo Parameters - Custom Site Settings
 params:
