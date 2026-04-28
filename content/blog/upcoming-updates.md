@@ -13,7 +13,7 @@ tags:
 
 {{< card icon="exclamation-circle" title="This is an important announcement post!" subtitle="If you see an article only has the announcements tag, that means you're reading an announcement from Benjamin Fernandez Media!" >}}
 
-![Hero](/static/images/hero.png)
+![Hero](/images/hero.png)
 
 This May, we will make some changes to the website that will add essential pages and additional blog sections with a specific purpose. In addition to the changes, new authors will be added to the website to publish other related content, so watch for those authors that might appear eventually!
 
