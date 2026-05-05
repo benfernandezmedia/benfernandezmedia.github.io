@@ -1,6 +1,6 @@
 ### Main Configuration Information
 title: Benjamin Fernandez Media
-locale: en-US
+locale: en
 baseURL: https://benfernandezmedia.github.io/
 
 ### Hugo Module and Theme Configuration
