@@ -1,14 +1,17 @@
-baseURL: https://benfernandezmedia.github.io/
-locale: en-US
+### Main Configuration Information
 title: Benjamin Fernandez Media
+locale: en-US
+baseURL: https://benfernandezmedia.github.io/
 
+### Hugo Module and Theme Configuration
 module:
   imports:
     - path: github.com/imfing/hextra
 
-# Menu Configuration - Main Navigation with Nested Social Links and Search/Theme Toggle
+### Navigation Menu Configuration
 menu:
   main:
+    # Creator's Blog - Links to the blog page of the site.
     - name: Creator's Blog
       pageRef: /blog
       params:
@@ -16,11 +19,12 @@ menu:
         icon: rss
       weight: 1
 
+    # Portfolio - Links to the Cara portfolio to showcase the creator's work.
     - name: Portfolio
       url: https://cara.app/benfernandezmedia
       params:
         type: link
-        icon: folder
+        icon: cards
       weight: 2
 
     # Nested Menu - Socials
@@ -31,7 +35,7 @@ menu:
         icon: users
       weight: 3
 
-    # Social Links - Nested under Socials
+    # Social Links - Nested under the Socials menu item.
     - name: Instagram
       url: https://www.instagram.com/benfernandezmedia/
       parent: socials
@@ -47,7 +51,7 @@ menu:
         icon: github
 
     - name: Patreon
-      url: https://www.patreon.com/benfernandezmedia
+      url: https://www.patreon.com/bfmextras
       parent: socials
       params:
         type: link
@@ -60,81 +64,82 @@ menu:
         type: link
         icon: youtube
 
-    # Nested Menu - Help
-    - identifier: help
-      name: Help
-      params:
-        type: link
-        icon: question-mark-circle
-      weight: 4
-
-    # Help Links - Nested under Help
-    - name: Questions and Answers
-      url: /faq
-      params:
-        type: link
-        icon: question-mark-circle
-      parent: help
-
-    # Search Bar - Main Website Search Box
+    # Search Bar
     - name: Search
       params:
         type: search
+      weight: 4
+
+    # Help and Information - Links to the help page for users seeking assistance or more information about the site.
+    - name: Help and Information
+      pageRef: /help
+      params:
+        type: icon
+        icon: question-mark-circle
       weight: 5
 
-    # Theme Toggle - Light/Dark Mode Switch
+    # Theme Toggle - Allows users to switch between light and dark themes.
     - name: Theme Toggle
       params:
         type: theme-toggle
       weight: 6
 
-# Hugo Parameters - Custom Site Settings
+### Hugo Parameters
 params:
-  # Markup Settings
+  banner:
+    key: 'announcement-200'
+    message: |
+      🎉 **The website has got the 2.0 upgrade!** — [Read the latest update post!](/help/updates/v2-update/)
+
+  # Open Graph - This is used for social media, showing the site preview when link is shared.
+  images:
+    - /images/social_preview.png
+
+  # Markup Configuration - Setting the default markup to HTML, which is standard for web content.
   markup:
     goldmark:
       renderer:
         unsafe: true
-    highlight:
-      noClasses: false
+      highlight:
+        noClasses: false
 
-  # Image Zoom Settings - Enable Zoom on Images with Custom Options
-  imageZoom:
+  # Image Zoom Configuration - Enables zoom functionality for images in the content.
+  imageZoom: 
     enable: true
 
-  # Blog Settings - Custom Configuration for Blog Layout and Display
+  # Blog Configuration
   blog:
     list:
       displayTags: true
-  toc:
-    displayTags: true
+    tocs:
+      displayTags: true
 
-  # Page Settings - Custom Configuration for Page Layout and Display
+  # Inline Shortcodes Configuration
+  enableInlineShortcodes: true
+
+  # Page Configuration
   page:
     width: wide
 
-  # Navigation Bar Settings
+  # Navbar Configuration
   navbar:
-    displayLogo: true
     displayTitle: false
-    width: wide
-
-    # Logo Configuration - Custom Logo for the Site
+    displayLogo: true
     logo:
-      path: images/bfm-logo.svg
-      dark: images/bfm-logoDark.svg
+      path: /images/navbar/logo.svg
+      dark: /images/navbar/logoDark.svg
       link: /
       width: 230
       height: 20
+    width: wide
 
+  # Theme Configuration
   theme:
-    # Default will be set to system, toggle will be available in the navbar!
-    default: system
-    displayToggle: false
+     default: system
+     displayToggle: false
 
-  # Footer Settings - Custom Footer Configuration
+  # Footer Configuration
   footer:
-    enable: true
-    displayCopyright: true
     displayPoweredBy: true
+    displayCopyright: true
     width: wide
