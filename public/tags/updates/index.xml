@@ -25,7 +25,7 @@
         
         
         &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/help_index/recentchanges.webp&#34; alt=&#34;Update&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Our website has been improved, fixed, and of course upgraded to version 2.0!&lt;/p&gt;
+&lt;p&gt;Our website has been improved, fixed, and of course upgraded to version 2.0! I have been doing a lot of hard work to ensure that everything doesn&amp;rsquo;t break during the publishing process but the good thing is that everything you see has no errors! &lt;em&gt;Yare yare daze&amp;hellip;&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;New Features (and also some pages)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;new-features-and-also-some-pages&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#new-features-and-also-some-pages&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;New Pages: Help and Information and of course&amp;hellip;a changelog&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;new-pages-help-and-information-and-of-coursea-changelog&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#new-pages-help-and-information-and-of-coursea-changelog&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;In the previous version of the site, you had only the &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
@@ -117,9 +117,13 @@ images:
     &lt;a href=&#34;#fixes-and-improvements&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Fixed and added some icons that was not included with the Hextra theme. This includes icons that were needed in parts of the Navigation Bar.&lt;/li&gt;
 &lt;li&gt;The homepage, which is the first page you enter the site with, has been revamped from the ground up, added new visual improvements alongside!&lt;/li&gt;
+&lt;li&gt;Favicons has been replaced to ensure that our branding is updated to be par with the system theme.&lt;/li&gt;
+&lt;li&gt;RSS support has been fixed! You can now add the site to your RSS feeder of choice.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Under The Code&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;under-the-code&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#under-the-code&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+    &lt;a href=&#34;#under-the-code&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;While working on some parts of the pages like the Questions and Answers and Recent Changes pages, I had to modified the layouts for both list and single pages to display the appropiate banners, it was tough but the modification was successful.&lt;/li&gt;
+&lt;/ul&gt;
       </description>
     </item>
     

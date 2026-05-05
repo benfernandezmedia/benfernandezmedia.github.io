@@ -150,7 +150,8 @@
     &lt;strong class=&#34;hx:text-lg&#34;&gt;Q. How often the site is updated?&lt;/strong&gt;
   &lt;/summary&gt;
   &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
-    &lt;strong&gt;A:&lt;/strong&gt; Depending on the pushes I commit on GitHub as the website is powered by GitHub Pages. I may update the site to commit fixes or manage the website configuration as whole.
+    &lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Depending on the pushes I commit on GitHub as the website is powered by GitHub Pages. I may update the site to commit fixes or manage the website configuration as whole.&lt;/p&gt;
+
   &lt;/div&gt;
 &lt;/details&gt;
 &lt;/p&gt;
