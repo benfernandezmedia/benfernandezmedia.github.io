@@ -46,5 +46,5 @@ width: wide
 {{< hextra/feature-grid cols="3" style="margin-top: 14px; margin-bottom: 32px;">}}
     {{< card tag="Ongoing" tagIcon="sparkles" title="Enhanced" subtitle="Every illustration...has their legacy..." image="/images/promos/enhanced_promo.webp" >}}
     {{< card tag="Project On Hold"  tagIcon="code" title="Unfragmented" subtitle="Never forget your memories...or you'll be ceased!" image="images/promos/unfragmented_promo.webp" >}}
-    {{< card tag="For Obsidian" tagIcon="obsidian"  title="Splash Screen for Obsidian" subtitle="A customizable CSS snippet for your Obsidian vault" image="https://obsidian.md/images/banner.png" >}}
+    {{< card tag="For Obsidian" tagIcon="obsidian"  title="Splash Screen for Obsidian" subtitle="A customizable CSS snippet for your Obsidian vault" image="images/promos/splashscreen.webp" link="https://github.com/benfernandezmedia/obsidian-splashscreen">}}
 {{< /hextra/feature-grid >}}
