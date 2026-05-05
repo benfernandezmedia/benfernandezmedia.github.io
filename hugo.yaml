@@ -111,8 +111,9 @@ params:
   blog:
     list:
       displayTags: true
-    tocs:
-      displayTags: true
+
+  toc:
+    displayTags: true
 
   # Inline Shortcodes Configuration
   enableInlineShortcodes: true
