@@ -1,6 +1,8 @@
 ---
 title: Creator's Blog
-layout: blog
+description: Official Blog of Benjamin Fernandez Media - Check out information on new content from the creator, go behind-the-scenes, and take sneak peeks!
+cascade:
+  type: blog
 ---
 
 {{< callout type="important" icon="patreon" >}}
