@@ -13,7 +13,7 @@ layout: hextra-home
 
 {{< hextra/feature-grid cols="2" style="margin-top: 24px;" >}}
     {{< card tag="" icon="question-mark-circle" image="/images/help_index/faq.webp" title="Questions and Answers" subtitle="Got questions? We got you! Learn about the questions that you might ask of what we do here." link="questions-and-answers" >}}
-    {{< card tag="NEW!" tagIcon="sparkles" icon="sparkles" image="/images/help_index/recentchanges.webp" title="Recent Changes" subtitle="View current changes that we did on the website including past features that were introduced." link="updates" >}}
+    {{< card tagIcon="sparkles" icon="sparkles" image="/images/help_index/recentchanges.webp" title="Recent Changes" subtitle="View current changes that we did on the website including past features that were introduced." link="updates" >}}
     {{< card tag="Coming Soon!" icon="academic-cap" image="/images/help_index/lessaimorehuman.webp" title="The Less AI, More Human Creativity Stance" subtitle="Learn about the Less AI, More Human Creativity stance, it's a resource of how to use AI responsibly." link="" >}}
     {{< card icon="users" image="/images/help_index/credits.webp" title="Credits" subtitle="View copyright, and learn the software and tools we used to build everything!" link="credits" >}}
 {{< /hextra/feature-grid >}}
