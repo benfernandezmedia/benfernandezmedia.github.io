@@ -15,3 +15,5 @@ tags:
 
 ![placeholder](/images/placeholder.png)
 
+Hello everyone and welcome to MediaPlay! Our digital newsletter that gives you the scoop on what's going on in the world of media entertainment right here on the official website of Benjamin Fernandez Media and also viewable on Pateron!
+
