@@ -1,6 +1,9 @@
 ---
 title: Creator's Blog
 description: Official Blog of Benjamin Fernandez Media - Check out information on new content from the creator, go behind-the-scenes, and take sneak peeks!
+outputs:
+  - html
+  - rss
 cascade:
   type: blog
 ---
