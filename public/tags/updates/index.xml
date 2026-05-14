@@ -5,7 +5,7 @@
     <description>Recent content in Updates on Benjamin Fernandez Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/tags/updates/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,28 @@
         
       
     
+    
+    <item>
+      <title>v2.0.5 - Improvements and Fixes</title>
+      <link>http://localhost:1313/help/updates/v205-improvements/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/help/updates/v205-improvements/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;New Features&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;new-features&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#new-features&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;No new features for this changelog.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Fixes and Improvements&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;fixes-and-improvements&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#fixes-and-improvements&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Fixed RSS feed outputs for the main website, and updates posts.&lt;/li&gt;
+&lt;li&gt;Decluttered folders that holds the tags for every posts, keeping it at a small digital footprint.&lt;/li&gt;
+&lt;li&gt;Version 2.0.5 introduces overall improvements of website experience and stability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Under The Code&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;under-the-code&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#under-the-code&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+      </description>
+    </item>
     
     <item>
       <title>Upcoming Projects That I&#39;m Returning To Work On</title>
@@ -25,6 +47,7 @@
         
         
         &lt;p&gt;&lt;em&gt;Here&amp;rsquo;s an upcoming update post from Benjamin alongside with the mascot, Amira! Upcoming projects are returning to work on later this month so here&amp;rsquo;s what the duo have to say!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/website_banners/placeholder.png&#34; alt=&#34;Placeholder&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Hi everyone, Benjamin and Amira here to give you a heads-up about the upcoming projects we’re planning to get back to working on! One of those projects specifically is none other than the &lt;strong&gt;Enhanced&lt;/strong&gt; series of illustrations, as two illustrations that are part of the series were completed since the beginning of the year.&lt;/p&gt;
 &lt;p&gt;Last month, during the late weeks prior to the official website launch, I was considering returning to working on the series since I have not been drawing throughout April, but as the summer season is coming up soon, and of course, the upcoming season of ConnectiCon XXIII later this July, more illustrations that are older than 2021 or earlier will be redone with a new look.&lt;/p&gt;
 &lt;p&gt;Now, I want to turn it over to Amira and see what she has to say in regards to Enhanced. &lt;strong&gt;Take it away, Amira!&lt;/strong&gt;&lt;/p&gt;
@@ -32,20 +55,32 @@
     &lt;a href=&#34;#amiras-headline&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Thanks, Benjamin! Hey guys, Amira here! Excited to do my first post on the website along with my creator. As he has said before, Enhanced is returning with more illustrations later this month as older illustrations will be planned to work on, and some illustrations I want to focus on mentioning in particular are the ones made for our friends over at &lt;strong&gt;Team Pyro&lt;/strong&gt;, which consists of the artist duo of Pyropen Art and Bunny&amp;rsquo;s Resin Arts.&lt;/p&gt;
 &lt;p&gt;As you may or may not have noticed, April marked the month when we launched our Benjamin Fernandez Media Instagram account, one of our social media channels. The account began with the original illustration titled “Love Is Slippery,” which was inspired by a video our friend Pyro created for Valentine’s Day two years ago on his social media platforms. This video also played a significant role in the inception of our online presence on Instagram, showcasing what we do regarding content and the art we post!&lt;/p&gt;
 &lt;h3&gt;Team Pyro x Enhanced&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;team-pyro-x-enhanced&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#team-pyro-x-enhanced&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This is the first time that the illustrations we did for both Pyro and Bunny are going to be fused through the world of Enhanced, and needless to say, it&amp;rsquo;s going to be a blast to see these two creative artists be re-done in newer versions straight on Procreate!&lt;/p&gt;
+    &lt;a href=&#34;#team-pyro-x-enhanced&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/website_banners/pyro_banner.png&#34; alt=&#34;Team Pyro&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;This is the first time that the illustrations we did for both Pyro and Bunny are going to be fused through the world of Enhanced, and needless to say, it&amp;rsquo;s going to be a blast to see these two creative artists be re-done in newer versions straight on Procreate!&lt;/p&gt;
 &lt;p&gt;We continue to maintain our friendship with the duo and continue to support them throughout their lives and their art journey online and in-person through the conventions.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;To be honest, I did remember one time that I saw Bunny wearing my clothes on one post. I think that my striped shirt has a bigger size. I think I need to check in my closet for spares.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Benjamin (off-post):&lt;/strong&gt; Amira, I think I should consider drawing you a new shirt design. I constantly draw you wearing the same shirt, and I should start drawing you in different clothes later this summer, along with the others.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Oh c&amp;rsquo;mon! You know I always love purple stripes, and I&amp;rsquo;m so addicted to it SO HARD!&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Benjamin (off-post):&lt;/strong&gt; Well, obviously, I had a curiosity. &lt;strong&gt;When was the last time you washed your purple striped shirts?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Ohhhhh&amp;hellip;.right&amp;hellip;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Back to the topic, later this summer, the respective illustration for &amp;ldquo;Love Is Slippery&amp;rdquo;, our first drawing on our Instagram, will be redone in Procreate, and also the character designs that represent the duo will be improved alongside!&lt;/p&gt;
+&lt;p&gt;Back to the topic, later this summer, the respective illustration for &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&amp;ldquo;Love Is Slippery&amp;rdquo;, our first drawing on our Instagram, will be redone in Procreate, and also the character designs that represent the duo will be improved alongside!&lt;/p&gt;
 &lt;h3&gt;New original illustrations for Enhanced&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;new-original-illustrations-for-enhanced&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#new-original-illustrations-for-enhanced&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Even though Benjamin is looking back at his old catalog of illustrations, new original illustrations will be coming to the series, and for the first time, our new friend Madeline will also join in the line-up, showing off her interactions with us and her character too! So stay tuned on our socials and even on our site for more updates related to the series. We also have an &lt;strong&gt;RSS Feed&lt;/strong&gt; so you can add us into your feeder so you can check for updates faster instead of heading to the site manually!&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s all I have to announce, let me turn back to Benjamin as he has updates in regards to the site!&lt;/p&gt;
 &lt;h2&gt;Updates for the official website&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;updates-for-the-official-website&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#updates-for-the-official-website&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;Thanks Amira and you probably clean your shirts after this!&lt;/em&gt; So, last week, the website had its 2.0 upgrade, adding missing features of OpenGraph, the improvement of our RSS feeds, and also adding a changelog and help pages. What we are planning to add in the next update is a page dedicated to our &amp;ldquo;Less AI, More Human Creativity&amp;rdquo; stance to indicate how we use AI responsibly in terms of using it for feedback, suggestions, ideas, and of coure for research purposes.&lt;/p&gt;
+    &lt;a href=&#34;#updates-for-the-official-website&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;Thanks Amira and you probably clean your shirts after this!&lt;/em&gt; So, last week, the website had its 2.0 upgrade, adding missing features of OpenGraph, the improvement of our RSS feeds, and also adding a changelog and help pages. What we are planning to add in the next update is a &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;page dedicated to our &amp;ldquo;Less AI, More Human Creativity&amp;rdquo; stance to indicate how we use AI responsibly in terms of using it for feedback, suggestions, ideas, and of coure for research purposes.&lt;/p&gt;
 &lt;p&gt;Aside from that, I have been researching online that there should be a way I can develop an OpenGraph thumbnail for our posts, but it&amp;rsquo;s going to be extremely difficult to program as this relies heavily on the use of assets and Hugo&amp;rsquo;s resources to ensure that the thumbnail for each post is generated if our post links are shared on social media.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;The original title of the artwork was changed due to specific reasons as it referenced to a song that our friend Pyropen Art used on his Valentine&amp;rsquo;s Day 2023 video.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;The page will have to take some time to work on. Please be patient in terms of development times on the page as we are still new to working with HTML, CSS, and Hugo.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
       </description>
     </item>
     

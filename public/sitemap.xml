@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/help/</loc>
+    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/help/updates/</loc>
+    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/updates/</loc>
+    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/help/updates/v205-improvements/</loc>
+    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
@@ -11,47 +26,14 @@
     <loc>http://localhost:1313/tags/projects/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/upcoming-projects-returning-to-work-on/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/updates/</loc>
-    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/2d-art/</loc>
-    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/fan-art/</loc>
+    <loc>http://localhost:1313/tags/new-content/</loc>
     <lastmod>2026-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/nikki-gets-drawn/</loc>
     <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/nintendo/</loc>
-    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/nintendo-3ds/</loc>
-    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/original-illustration/</loc>
-    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/swapdoodle/</loc>
-    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/swapnote/</loc>
-    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/video-games/</loc>
-    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/help/</loc>
-    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/help/updates/</loc>
-    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/help/updates/v2-update/</loc>
     <lastmod>2026-05-04T00:00:00+00:00</lastmod>
@@ -59,25 +41,7 @@
     <loc>http://localhost:1313/tags/behind-the-scenes/</loc>
     <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/enhanced/</loc>
-    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/extras/</loc>
-    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/making-of-enhanced-promo-art/</loc>
-    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/noai/</loc>
-    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/original-character/</loc>
-    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/procreate/</loc>
-    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/promotional-artwork/</loc>
     <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

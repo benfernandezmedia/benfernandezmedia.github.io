@@ -86,10 +86,6 @@ menu:
 
 ### Hugo Parameters
 params:
-  banner:
-    key: 'announcement-200'
-    message: |
-      🎉 **The website has got the 2.0 upgrade!** — [Read the latest update post!](/help/updates/v2-update/)
 
   # Open Graph - This is used for social media, showing the site preview when link is shared.
   images:
@@ -144,3 +140,17 @@ params:
     displayPoweredBy: true
     displayCopyright: true
     width: wide
+
+  outputs:
+    home:
+      - html
+      - rss
+
+    section:
+      - html
+
+    taxonomy:
+      - html
+
+    term:
+      - html

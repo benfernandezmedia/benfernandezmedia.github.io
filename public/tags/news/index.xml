@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjamin Fernandez Media – News</title>
+    <link>http://localhost:1313/tags/news/</link>
+    <description>Recent content in News on Benjamin Fernandez Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Welcome to MediaPlay - First Issue</title>
+      <link>http://localhost:1313/blog/welcome-to-mediaplay/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/welcome-to-mediaplay/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/placeholder.png&#34; alt=&#34;placeholder&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Hello everyone and welcome to MediaPlay! Our digital newsletter that gives you the scoop on what&amp;rsquo;s going on in the world of media entertainment right here on the official website of Benjamin Fernandez Media and also viewable on Pateron!&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

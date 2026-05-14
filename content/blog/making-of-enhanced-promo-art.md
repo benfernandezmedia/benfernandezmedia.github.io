@@ -7,13 +7,6 @@ authors:
    image: https://github.com/benfernandezmedia.png
 tags:
   - Behind The Scenes
-  - Enhanced
-  - NoAI
-  - Procreate
-  - 2D Art
-  - Extras
-  - Original Character
-  - Promotional Artwork
 sidebar:
     hide: true
 ---
