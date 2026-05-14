@@ -2,6 +2,8 @@
 title: Help and Information
 description: Need to learn more about what we do, or finding your way here on the site? This is the place to go!
 layout: hextra-home
+outputs:
+  - html
 ---
 
 <!--Main Hero Container-->
