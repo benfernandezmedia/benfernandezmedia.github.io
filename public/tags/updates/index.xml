@@ -5,7 +5,7 @@
     <description>Recent content in Updates on Benjamin Fernandez Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/tags/updates/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,28 @@
         
       
     
+    
+    <item>
+      <title>v2.0.5 - Improvements and Fixes</title>
+      <link>http://localhost:1313/help/updates/v205-improvements/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/help/updates/v205-improvements/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;New Features&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;new-features&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#new-features&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;No new features for this changelog.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Fixes and Improvements&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;fixes-and-improvements&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#fixes-and-improvements&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Fixed RSS feed outputs for the main website, and updates posts.&lt;/li&gt;
+&lt;li&gt;Decluttered folders that holds the tags for every posts, keeping it at a small digital footprint.&lt;/li&gt;
+&lt;li&gt;Version 2.0.5 introduces overall improvements of website experience and stability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Under The Code&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;under-the-code&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#under-the-code&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+      </description>
+    </item>
     
     <item>
       <title>Upcoming Projects That I&#39;m Returning To Work On</title>
