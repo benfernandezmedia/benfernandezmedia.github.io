@@ -140,3 +140,17 @@ params:
     displayPoweredBy: true
     displayCopyright: true
     width: wide
+
+  outputs:
+    home:
+      - html
+      - rss
+
+    section:
+      - html
+
+    taxonomy:
+      - html
+
+    term:
+      - html
