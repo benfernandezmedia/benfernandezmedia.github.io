@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjamin Fernandez Media – Mediaplay</title>
+    <link>http://localhost:1313/tags/mediaplay/</link>
+    <description>Recent content in Mediaplay on Benjamin Fernandez Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/mediaplay/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>MediaPlay Introduction</title>
+      <link>http://localhost:1313/blog/mediaplay-introduction/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/mediaplay-introduction/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/promo/mediaplay_crystal.png&#34; alt=&#34;MediaPlay Promo Banner&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hi, I&amp;rsquo;m Crystal!&lt;/strong&gt; The main hostess of the brand new MediaPlay newsletter here on the official website of BFM and also on Patreon!&lt;/p&gt;
+&lt;p&gt;MediaPlay is the all-new newsletter where I review what&amp;rsquo;s going on in the world of digital entertainment, gaming, and new stuff related to indie animations that has been going around in the center of the web and on-demand through streaming platforms.&lt;/p&gt;
+&lt;p&gt;We have a lot to check out in the future as we dig deep into what&amp;rsquo;s hot across the communities around your favorite content and, of course, look at what&amp;rsquo;s coming soon for the content you want to see!&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
