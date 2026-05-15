@@ -1,6 +1,6 @@
 ---
 title: MediaPlay Introduction
-date: 2026-05-15T09:45:00-05:00
+date: 2026-05-15
 authors:
   - name: Crystal Ashiro
     image: /images/authors/crystal.png
@@ -11,7 +11,7 @@ tags:
   - mediaplay
 ---
 
-![MediaPlay Promo Banner](logo.png)
+![MediaPlay Promo Banner](/images/logo.png)
 
 **Hi, I'm Crystal!** The main hostess of the brand new MediaPlay newsletter here on the official website of BFM and also on Patreon!
 
