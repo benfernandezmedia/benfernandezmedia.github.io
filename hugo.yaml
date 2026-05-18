@@ -3,6 +3,8 @@ title: Benjamin Fernandez Media
 locale: en
 baseURL: https://benfernandezmedia.github.io/
 
+copyright: © 2026 Benjamin Fernandez Media, All rights reserved.
+
 ### Hugo Module and Theme Configuration
 module:
   imports:
@@ -34,6 +36,13 @@ menu:
         type: link
         icon: users
       weight: 3
+
+    - name: MediaPlay
+      pageRef: /mediaplay
+      params:
+        type: link
+        icon: mediaplay
+      weight: 4
 
     # Social Links - Nested under the Socials menu item.
     - name: Instagram
@@ -68,7 +77,7 @@ menu:
     - name: Search
       params:
         type: search
-      weight: 4
+      weight: 5
 
     # Help and Information - Links to the help page for users seeking assistance or more information about the site.
     - name: Help and Information
@@ -76,13 +85,13 @@ menu:
       params:
         type: icon
         icon: question-mark-circle
-      weight: 5
+      weight: 6
 
     # Theme Toggle - Allows users to switch between light and dark themes.
     - name: Theme Toggle
       params:
         type: theme-toggle
-      weight: 6
+      weight: 7
 
 ### Hugo Parameters
 params:
@@ -140,17 +149,3 @@ params:
     displayPoweredBy: true
     displayCopyright: true
     width: wide
-
-  outputs:
-    home:
-      - html
-      - rss
-
-    section:
-      - html
-
-    taxonomy:
-      - html
-
-    term:
-      - html

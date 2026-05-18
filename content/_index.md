@@ -35,6 +35,9 @@ width: wide
     </div>
 {{< /hextra/hero-container >}}
 
+<!--MediaPlay Feeder Bar-->
+{{< mediaplay_feed >}}
+
 {{< hextra/feature-grid cols="3" style="margin-top: 24px;" >}}
     {{< hextra/feature-card icon="rss" title="Creator's Blog" subtitle="Check back often to see updates, announcements, and also behind-the-scenes content of what we do! They are also viewable on Patreon." link="/blog" >}}
     {{< hextra/feature-card icon="cards" title="Check out the illustrations!" subtitle="To see the current artwork that is published, click here to enter our Cara profile to see our portfolio and its current content." link="https://cara.app/benfernandezmedia" >}}
