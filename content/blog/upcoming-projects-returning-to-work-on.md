@@ -8,8 +8,8 @@ authors:
   - name: Amira Fernandez
     image: /images/authors/amira.png
 tags:
-  - Projects
-  - Updates
+  - projects
+  - updates
 sidebar:
   hide: true
 ---
