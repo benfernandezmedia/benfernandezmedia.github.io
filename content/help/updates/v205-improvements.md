@@ -11,7 +11,7 @@ authors:
 sidebar:
   hide: true
 tags:
- - Updates
+ - updates
 ---
 
 ![Update](/images/help_index/recentchanges.webp)

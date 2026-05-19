@@ -6,7 +6,7 @@ authors:
    link: https://instagram.com/benfernandezmedia
    image: https://github.com/benfernandezmedia.png
 tags:
-  - Behind The Scenes
+  - behindthescenes
 sidebar:
     hide: true
 ---

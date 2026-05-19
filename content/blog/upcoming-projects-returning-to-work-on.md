@@ -8,8 +8,8 @@ authors:
   - name: Amira Fernandez
     image: /images/authors/amira.png
 tags:
-  - Projects
-  - Updates
+  - projects
+  - updates
 sidebar:
   hide: true
 ---
@@ -17,8 +17,6 @@ sidebar:
 *Here's an upcoming update post from Benjamin alongside with the mascot, Amira! Upcoming projects are returning to work on later this month so here's what the duo have to say!*
 
 <!--more-->
-
-![Placeholder](/images/website_banners/placeholder.png)
 
 Hi everyone, Benjamin and Amira here to give you a heads-up about the upcoming projects we’re planning to get back to working on! One of those projects specifically is none other than the **Enhanced** series of illustrations, as two illustrations that are part of the series were completed since the beginning of the year.
 
@@ -34,8 +32,6 @@ As you may or may not have noticed, April marked the month when we launched our 
 
 ### Team Pyro x Enhanced
 
-![Team Pyro](/images/website_banners/pyro_banner.png)
-
 This is the first time that the illustrations we did for both Pyro and Bunny are going to be fused through the world of Enhanced, and needless to say, it's going to be a blast to see these two creative artists be re-done in newer versions straight on Procreate!
 
 We continue to maintain our friendship with the duo and continue to support them throughout their lives and their art journey online and in-person through the conventions.
@@ -50,7 +46,7 @@ We continue to maintain our friendship with the duo and continue to support them
 
 *Ohhhhh....right...*
 
-Back to the topic, later this summer, the respective illustration for [^1]"Love Is Slippery", our first drawing on our Instagram, will be redone in Procreate, and also the character designs that represent the duo will be improved alongside!
+Back to the topic, later this summer, the respective illustration for "Love Is Slippery", our first drawing on our Instagram, will be redone in Procreate, and also the character designs that represent the duo will be improved alongside!
 
 ### New original illustrations for Enhanced
 
@@ -60,10 +56,6 @@ That's all I have to announce, let me turn back to Benjamin as he has updates in
 
 ## Updates for the official website
 
-*Thanks Amira and you probably clean your shirts after this!* So, last week, the website had its 2.0 upgrade, adding missing features of OpenGraph, the improvement of our RSS feeds, and also adding a changelog and help pages. What we are planning to add in the next update is a [^2]page dedicated to our "Less AI, More Human Creativity" stance to indicate how we use AI responsibly in terms of using it for feedback, suggestions, ideas, and of coure for research purposes.
+*Thanks Amira and you probably clean your shirts after this!* So, last week, the website had its 2.0 upgrade, adding missing features of OpenGraph, the improvement of our RSS feeds, and also adding a changelog and help pages. What we are planning to add in the next update is a page dedicated to our "Less AI, More Human Creativity" stance to indicate how we use AI responsibly in terms of using it for feedback, suggestions, ideas, and of coure for research purposes.
 
 Aside from that, I have been researching online that there should be a way I can develop an OpenGraph thumbnail for our posts, but it's going to be extremely difficult to program as this relies heavily on the use of assets and Hugo's resources to ensure that the thumbnail for each post is generated if our post links are shared on social media.
-
-[^1]: The original title of the artwork was changed due to specific reasons as it referenced to a song that our friend Pyropen Art used on his Valentine's Day 2023 video.
-
-[^2]: The page will have to take some time to work on. Please be patient in terms of development times on the page as we are still new to working with HTML, CSS, and Hugo.

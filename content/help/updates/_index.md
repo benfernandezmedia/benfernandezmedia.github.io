@@ -7,8 +7,5 @@ breadcrumbs: true
 cascade:
   # This layout is specific modified and tuned only this page.
   type: bfm-update
-outputs:
-  - html
-  - rss
 ---
 

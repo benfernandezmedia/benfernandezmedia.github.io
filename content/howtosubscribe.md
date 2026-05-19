@@ -1,5 +1,5 @@
 ---
-title: RSS Subscription
+title: How To Subscribe the RSS Feeds
 description: Instructions on adding Benjamin Fernandez Media to your RSS feeder
 sidebar:
  hide: true
@@ -15,17 +15,25 @@ Since the site is powered by Hugo and Hextra, it can generate an RSS feed that l
 
 ### Choosing a feed channel
 
-We have two channels available based on the blog sections on our site. The posts you see will differ depending on which RSS or Atom feed you subscribe to.
+We have three channels available based on the blog sections on our site. The posts you see will differ depending on which RSS or Atom feed you subscribe to.
 
 For the main website's blog posts, which is the {{< icon "rss" >}}**Creator's Blog**, copy this link into your feeder settings:
 ```
-https://benfernandezmedia.github.io/index.xml
+http://benfernandezmedia.github.io/blog/index.xml
 ```
 
 To get our website updates channel, which is the {{< icon "sparkles" >}}**Recent Changes**, copy this link into your feeder settings:
 ```
-https://benfernandezmedia.github.io/help/updates/index.xml
+http://benfernandezmedia.github.io/help/updates/index.xml
 ```
+
+As of the new website update, {{< icon "mediaplay" >}}**MediaPlay** is now an RSS feed! To view Crystal's MediaPlay posts, copy this link into your feeder settings:
+```
+http://benfernandezmedia.github.io/mediaplay/index.xml
+```
+
+>[!NOTE] **Regarding MediaPlay**
+>This feed will be updated with new articles depending on some factors based on what media content we review so it takes time to write new issues of the newsletter.
 
 ### Choosing an RSS feeder
 

@@ -10,7 +10,9 @@ authors:
 sidebar:
   hide: true
 tags:
-  - New Content
+  - upcoming
+  - nintendo
+  - swapnotenikki
 ---
 
 ![Nikki](https://external-preview.redd.it/new-smash-blog-post-10-25-2018-todays-item-nikki-assist-v0-NVNlDqs3yqcWs82xXMwq3GNSl2pXofNskp6Ugv7y1-0.jpg?width=1080&crop=smart&auto=webp&s=97d6b1608579c5bb984a711def89dfac8afbdda6)
