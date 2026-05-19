@@ -30,9 +30,7 @@ tags:
 
 During last weekend, a lot of hard work has been done on the website to intergrate the new MediaPlay newsletter idea and it has been successfully done by creating a brand new ticker that will display all content related MediaPlay on our homepage for easy access!
 
-When working on the new ticker, that hard work consists of using Chrome's Inspect Element and development tools to shape the look and feel of the ticker and this is what it looks like and the first thing you will see on the homepage:
-
-{{< mediaplay_feed >}}
+When working on the new ticker, that hard work consists of using Chrome's Inspect Element and development tools to shape the look and feel of the ticker and it will be the first thing you will see on the homepage.
 
 Although, this is the first time a long-time HTML tag called `<marquee>` is used, Hugo's code and functionality to display the article title were added so you can access the articles instantly. But for now, since we are writing down the first issue of MediaPlay, you will see Crystal's message that is currently showing on the ticker. As soon as all articles for MediaPlay are populated, **you won't see her message on the ticker any longer.**
 
