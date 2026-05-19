@@ -96,6 +96,9 @@ menu:
 ### Hugo Parameters
 params:
 
+  # Time Zone Configuration - Setting the default time zone for the site to New York.
+  timeZone: America/New_York
+
   # Open Graph - This is used for social media, showing the site preview when link is shared.
   images:
     - /images/social_preview.png
