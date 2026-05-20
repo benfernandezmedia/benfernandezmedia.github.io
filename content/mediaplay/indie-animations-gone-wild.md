@@ -11,9 +11,6 @@ sidebar:
   hide: true
 tags:
   - mediaplay
-output:
-  - html
-  - rss
 ---
 
 *On the first issue of MediaPlay, Crystal looks deep behind the indie animation scene of reviewing last week's content that was published by GLITCH Productions and SpindleHorse Toons, while discovering an interesting pilot episode from the Y2K by an indie artist and creator!*
@@ -63,7 +60,7 @@ As the show was released on Friday last week, fans were starting to see a bit of
 
 ### MEDIA BREAKING: TADC Episode 9 Got LEAKED!
 
-This is surprisingly shocking, and also in big spoiling disbelief, so by the time of posting our first episode, not too long ago, when I was looking at my {{< icon “youtube” >}}**YouTube** subscriptions, saw a post from Ayy Lmao sharing some shocking news that someone has leaked the final episode of *The Amazing Digital Circus.* As this sounds bad, this is most likely gonna be spread everywhere online and it will result in GLITCH Productions or Gooseworx submitting DMCA copyright takedowns to avoid the leaks from spreading.
+This is surprisingly shocking, and also in big spoiling disbelief, so by the time of posting our first episode, not too long ago, when I was looking at my **YouTube** subscriptions, saw a post from Ayy Lmao sharing some shocking news that someone has leaked the final episode of *The Amazing Digital Circus.* As this sounds bad, this is most likely gonna be spread everywhere online and it will result in GLITCH Productions or Gooseworx submitting DMCA copyright takedowns to avoid the leaks from spreading.
 
 At MediaPlay, in my defense as a host, publishing unreleased material from an overrated show can lead some spoilers and people can have serious reactions of what the ending would be from the show. I advise not to look at the leaks that are spreading online and wait until the actual premiere of the final episode of TADC in your local movie theater, YouTube and potentially on Netflix.
 
