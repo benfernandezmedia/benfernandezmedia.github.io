@@ -55,3 +55,29 @@ To check out the full pilot episode, watch the episode only on {{< icon "youtube
 While GLITCH Productions is focusing on stuff related to the final episode of *The Amazing Digital Circus* and its movie premiere of both Episode 8 and 9 for all movie theaters across the globe for this summer, they have released a new show called *Gameoverse* that is created and directed by Ross O'Donovan, while Arin Hanson, who is famously known online as the co-host of *Game Grumps* on YouTube, co-written the show. This action-pack adventure is consist the idea of where video games meets the apocolypse as each game world gets destroyed if that world doesn't get saved.
 
 ![Gameoverse](https://www.animationmagazine.net/wordpress/wp-content/uploads/Gameoverse-101.jpg)
+
+As the show was released on Friday last week, fans were starting to see a bit of fan service from the episode since it is actually a beach episode and then there was some backlash over this. Because of this, many people were extremely upset in regards to the design choices of the outfits that were worn by Kit and Miss Information, 
+
+### MEDIA BREAKING: TADC Episode 9 Got LEAKED!
+
+This is surprisingly shocking, and also in big spoiling disbelief, so by the time of posting our first episode, not too long ago, when I was looking at my {{< icon “youtube” >}}**YouTube** subscriptions, saw a post from Ayy Lmao sharing some shocking news that someone has leaked the final episode of *The Amazing Digital Circus.* As this sounds bad, this is most likely gonna be spread everywhere online and it will result in GLITCH Productions or Gooseworx submitting DMCA copyright takedowns to avoid the leaks from spreading.
+
+At MediaPlay, in my defense as a host, publishing unreleased material from an overrated show can lead some spoilers and people can have serious reactions of what the ending would be from the show. I advise not to look at the leaks that are spreading online and wait until the actual premiere of the final episode of TADC in your local movie theater, YouTube and potentially on Netflix.
+
+## The Fans of Helluva Boss Got Chaz’d…once again.
+
+![Sharkboy Summer Thumbnail](https://i.redd.it/ntczr0ea7j1h1.jpeg)
+
+We are now heading into VivziePop territory for this first episode, as Friday also marked the release of a new short or a music video from SpindleHorse’s show *Helluva Boss*. Originally, the socials channels of SpindleHorse Toons posted an image of what fans originally thought that the next short will involve Verosika Mayday due to the appearance of a character shown at the underwater perspective at a local pool.
+
+![Twiiter Post](https://preview.redd.it/thoughts-on-short-12-shark-boy-summer-short-or-song-v0-e42t7bbmtj1h1.png?width=1080&crop=smart&auto=webp&s=ba48558253b2ddfbfac2d1ce25675359cfda8041)
+
+However, that all changed when the voice actor of Chaz, whose character had appeared from the April Fools short and also from the earlier episodes of the show, posted on Instagram sharing a hint that its not Verosika while he was swimming in the pool.
+
+So it appears that Chaz or Zahc or *whatever his name is*, was most likely to appear again for the new short. On the day of the short’s release, we were flabbergasted of a music video titled “Sharkboy Summer”.
+
+*In all honesty, Chaz is NOT dead dead. If I can recall on the April Fools short featuring this character, all we know that he is still alive, under the fake Zahc persona, basically got his teeth ripped by Moxxie’s father and got new shark dentures.* But this theory maybe true by the fans or if I’m strongly correct on this. For now, **we will never know whether if its Chaz or his “twin brother” nor that he is actually DEAD that may not stop him from his game of being the most perverted character in the entire series.** But that’s just my opinion in a way, not to be disrespectful to the show’s VAs and the main creator.
+
+For the context of the music video, this is basically a song of Chaz’s seductive territory, mostly bragging about his big appendage as he screws around with other sinners around the Envy ring and “he won’t stop until he finishes”. To be honest, I think I have my fair shares of seeing weird things around the internet and mostly stuff in the show but this was *WAYYYYYY* overboard that the short was too much Chaz, *if you know what I mean.*
+
+Overall, aside from that seductive weirdo, we are still looking forward for the upcoming seasons of Helluva Boss, and also the new seasons of Hazbin Hotel from SpindleHorse which will coming soon on YouTube and on Amazon Prime Video. Please continue to follow the social channels of SpindleHorse for more updates and details in regards to the Helluvaverse.
