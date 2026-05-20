@@ -1,0 +1,89 @@
+{{ $src := .Get "src" | default (.Get "url") }}
+{{ if not $src }}
+  {{ errorf "video shortcode requires a src or url parameter" }}
+{{ end }}
+{{ if and (in $src "github.com") (in $src "/blob/") }}
+  {{ $src = replace $src "https://github.com/" "https://raw.githubusercontent.com/" }}
+  {{ $src = replace $src "/blob/" "/" }}
+{{ end }}
+{{ $title := .Get "title" | default "Video" }}
+{{ $poster := .Get "poster" }}
+{{ $width := .Get "width" | default "100%" }}
+{{ $height := .Get "height" | default "auto" }}
+{{ $showControls := true }}
+{{ $autoplay := false }}
+{{ $muted := false }}
+{{ $loop := false }}
+{{ $playButton := false }}
+{{ if .IsNamedParams }}
+  {{ with .Get "controls" }}
+    {{ if in (lower .) "false" }}
+      {{ $showControls = false }}
+    {{ end }}
+  {{ end }}
+  {{ with .Get "autoplay" }}
+    {{ if in (lower .) "true" }}
+      {{ $autoplay = true }}
+    {{ end }}
+  {{ end }}
+  {{ with .Get "muted" }}
+    {{ if in (lower .) "true" }}
+      {{ $muted = true }}
+    {{ end }}
+  {{ end }}
+  {{ with .Get "loop" }}
+    {{ if in (lower .) "true" }}
+      {{ $loop = true }}
+    {{ end }}
+  {{ end }}
+  {{ with .Get "playButton" }}
+    {{ if in (lower .) "true" }}
+      {{ $playButton = true }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $type := "" }}
+{{ if in (lower $src) ".mp4" }}
+  {{ $type = "video/mp4" }}
+{{ else if in (lower $src) ".webm" }}
+  {{ $type = "video/webm" }}
+{{ else if in (lower $src) ".ogg" }}
+  {{ $type = "video/ogg" }}
+{{ end }}
+<figure class="bfm-video-shortcode" style="position:relative; max-width:100%; margin:0 auto;">
+  <video
+    {{ if $showControls }}controls{{ end }}
+    {{ if $autoplay }}autoplay{{ end }}
+    {{ if $muted }}muted{{ end }}
+    {{ if $loop }}loop{{ end }}
+    playsinline
+    preload="metadata"
+    style="width: {{ $width }}; height: {{ $height }}; display: block; margin:0 auto;"
+    title="{{ $title }}"
+    {{ if $playButton }}onplay="var btn=this.closest('.bfm-video-shortcode').querySelector('.bfm-video-play-button'); if(btn){btn.innerText='❚❚';}" onpause="var btn=this.closest('.bfm-video-shortcode').querySelector('.bfm-video-play-button'); if(btn){btn.innerText='▶';}" onended="var btn=this.closest('.bfm-video-shortcode').querySelector('.bfm-video-play-button'); if(btn){btn.innerText='↻';}"{{ end }}
+    {{ with $poster }}poster="{{ . }}"{{ end }}>
+    <source src="{{ $src }}"{{ if $type }} type="{{ $type }}"{{ end }}>
+    Your browser does not support embedded videos.
+  </video>
+  {{ if $playButton }}
+    <button
+      type="button"
+      class="bfm-video-play-button"
+      onclick="var v=this.closest('.bfm-video-shortcode').querySelector('video'); if(v){ if(v.ended){ v.currentTime=0; v.play(); this.innerText='❚❚'; } else if(v.paused){ v.play(); this.innerText='❚❚'; } else { v.pause(); this.innerText='▶'; } }"
+      onmouseenter="var v=this.closest('.bfm-video-shortcode').querySelector('video'); if(v){ this.innerText=v.ended?'↻':v.paused?'▶':'❚❚'; }"
+      style="position:absolute; inset:0; margin:auto; width:76px; height:76px; min-width:76px; min-height:76px; border-radius:50%; border:none; background:rgba(0,0,0,.65); color:#fff; font-size:2rem; opacity:0; pointer-events:none; transition:opacity .2s ease-in-out; display:flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 12px 28px rgba(0,0,0,.32);">
+      ▶
+    </button>
+    <style>
+      .bfm-video-shortcode:hover .bfm-video-play-button {
+        opacity: 1 !important;
+        pointer-events: auto !important;
+      }
+    </style>
+  {{ end }}
+  {{ with .Inner }}
+    <figcaption style="margin-top:0.75rem; font-size:0.95rem; color:var(--text-muted, #666);">
+      {{ . | markdownify }}
+    </figcaption>
+  {{ end }}
+</figure>
