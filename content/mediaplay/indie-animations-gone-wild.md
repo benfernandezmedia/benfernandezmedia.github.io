@@ -11,6 +11,9 @@ sidebar:
   hide: true
 tags:
   - mediaplay
+output:
+  - html
+  - rss
 ---
 
 *On the first issue of MediaPlay, Crystal looks deep behind the indie animation scene of reviewing last week's content that was published by GLITCH Productions and SpindleHorse Toons, while discovering an interesting pilot episode from the Y2K by an indie artist and creator!*
