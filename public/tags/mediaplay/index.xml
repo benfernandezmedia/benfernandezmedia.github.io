@@ -1,14 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin Fernandez Media – Mediaplay</title>
-    <link>https://benfernandezmedia.github.io/tags/mediaplay/</link>
+    <link>http://localhost:1313/tags/mediaplay/</link>
     <description>Recent content in Mediaplay on Benjamin Fernandez Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Benjamin Fernandez Media, All rights reserved.</copyright>
-    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://benfernandezmedia.github.io/tags/mediaplay/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/mediaplay/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,109 +17,137 @@
     
     
     <item>
-      <title>v2.1.0 - MediaPlay Update</title>
-      <link>https://benfernandezmedia.github.io/help/updates/v210-update/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <title>Indie Animations Have Been Wildly Trending</title>
+      <link>http://localhost:1313/mediaplay/indie-animations-gone-wild/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://benfernandezmedia.github.io/help/updates/v210-update/</guid>
+      <guid>http://localhost:1313/mediaplay/indie-animations-gone-wild/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;https://benfernandezmedia.github.io/images/help_index/recentchanges.webp&#34; alt=&#34;Update&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;em&gt;On the first issue of MediaPlay, Crystal looks deep behind the indie animation scene of reviewing last week&amp;rsquo;s content that was published by GLITCH Productions and SpindleHorse Toons, while discovering an interesting pilot episode from the Y2K by an indie artist and creator!&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;
+  &lt;p class=&#34;hx:flex hx:items-center hx:font-medium&#34;&gt;&lt;svg height=16px class=&#34;hx:inline-block hx:align-middle hx:mr-2&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;&lt;strong&gt;Message from the MediaPlay team&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;p&gt;Hi, this is Benjamin Fernandez, and I run the content behind the MediaPlay newsletter while managing the website and its existing content. Want to reach out to the reader that this first issue of MediaPlay contains various content that was uploaded last week on social media from different artists and creators, and it has been reviewed carefully based on prior knowledge and research. I want to give you a heads up that this issue may contains content that may not be suitable for those are sensitive to weird content that has been going around and speculating through its content’s fandom. &lt;strong&gt;Hope you enjoy the first issue of MediaPlay and look forward for new coverage in the future!&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Welcome To MediaPlay!&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;welcome-to-mediaplay&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#welcome-to-mediaplay&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Hi there, I’m &lt;strong&gt;Crystal&lt;/strong&gt;, the main host of the new MediaPlay here on the official website of Benjamin Fernandez Media! Welcome to the newsletter, where I review over the latest content and news related to what’s going on in the world of digital media and entertainment. This first issue is gonna be packed with the recent indie animations that have been popular last week, prior to the time that this issue was published on the site.&lt;/p&gt;
+&lt;p&gt;I have to say, that last week has been going crazy in the fandoms from both &lt;strong&gt;Glitch Productions&lt;/strong&gt; and the crazy gang over at &lt;strong&gt;SpindleHorse Toons&lt;/strong&gt; with their shows and center of it all is a new show that looked like &lt;em&gt;it came from the early 2000s&lt;/em&gt; with its pilot episode.&lt;/p&gt;
+&lt;p&gt;When we reviewed the new content, we were stunned by SpindleHorse or maybe flabbergasted that the fans of &lt;em&gt;Helluva Boss&lt;/em&gt; expected a short related to the hot Verosika Mayday but we got Chaz’d. I’ll explain more of that later in the issue. &lt;strong&gt;For now, let’s the start the first issue and let’s play!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Returning To The Nostalgia With A New Pilot&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;returning-to-the-nostalgia-with-a-new-pilot&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#returning-to-the-nostalgia-with-a-new-pilot&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+    
+  
+  
+  
+  
+  
+    
+      
+    
+  
+
+
+
+  
+
+&lt;figure class=&#34;bfm-video-shortcode&#34; style=&#34;position:relative; max-width:100%; margin:0 auto;&#34;&gt;
+  &lt;video
+    
+    
+    
+    
+    playsinline
+    preload=&#34;metadata&#34;
+    style=&#34;width: 100%; height: auto; display: block; margin:0 auto;&#34;
+    title=&#34;PLANETRONIKA Preview Video&#34;
+    onplay=&#34;var btn=this.closest(&#39;.bfm-video-shortcode&#39;).querySelector(&#39;.bfm-video-play-button&#39;); if(btn){btn.innerText=&#39;❚❚&#39;;}&#34; onpause=&#34;var btn=this.closest(&#39;.bfm-video-shortcode&#39;).querySelector(&#39;.bfm-video-play-button&#39;); if(btn){btn.innerText=&#39;▶&#39;;}&#34; onended=&#34;var btn=this.closest(&#39;.bfm-video-shortcode&#39;).querySelector(&#39;.bfm-video-play-button&#39;); if(btn){btn.innerText=&#39;↻&#39;;}&#34;
+    &gt;
+    &lt;source src=&#34;https://raw.githubusercontent.com/benfernandezmedia/mediaplay-database/main/mediaplay-issue01/mp_planetronika.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    Your browser does not support embedded videos.
+  &lt;/video&gt;
+  
+    &lt;button
+      type=&#34;button&#34;
+      class=&#34;bfm-video-play-button&#34;
+      onclick=&#34;var v=this.closest(&#39;.bfm-video-shortcode&#39;).querySelector(&#39;video&#39;); if(v){ if(v.ended){ v.currentTime=0; v.play(); this.innerText=&#39;❚❚&#39;; } else if(v.paused){ v.play(); this.innerText=&#39;❚❚&#39;; } else { v.pause(); this.innerText=&#39;▶&#39;; } }&#34;
+      onmouseenter=&#34;var v=this.closest(&#39;.bfm-video-shortcode&#39;).querySelector(&#39;video&#39;); if(v){ this.innerText=v.ended?&#39;↻&#39;:v.paused?&#39;▶&#39;:&#39;❚❚&#39;; }&#34;
+      style=&#34;position:absolute; inset:0; margin:auto; width:76px; height:76px; min-width:76px; min-height:76px; border-radius:50%; border:none; background:rgba(0,0,0,.65); color:#fff; font-size:2rem; opacity:0; pointer-events:none; transition:opacity .2s ease-in-out; display:flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 12px 28px rgba(0,0,0,.32);&#34;&gt;
+      ▶
+    &lt;/button&gt;
+    &lt;style&gt;
+      .bfm-video-shortcode:hover .bfm-video-play-button {
+        opacity: 1 !important;
+        pointer-events: auto !important;
+      }
+    &lt;/style&gt;
+  
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Ah yes, the early 2000s…we knew the vibes of early childhood is returning but with an indie twist too! Last Monday, the viewers of indie animation has been stoked with a pilot episode from artist and creator, Rafael Andaya, with his new show called &lt;em&gt;PLANETRONIKA&lt;/em&gt;, a sci-fi, early-Y2K comedy, featuring two cool-looking characters that has been the buzz throughout the week. Here is a preview of the pilot episode!&lt;/p&gt;
+&lt;h3&gt;Plot of the PLANETRONIKA Pilot Episode&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;plot-of-the-planetronika-pilot-episode&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#plot-of-the-planetronika-pilot-episode&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Taking place in a fictional planet with its early Y2K vibes, two friends named Butterfly and Freestyle decided to take a break from work and challenge each other with a game of basketball! However, their usual game get chaotic with a dribble malfunction as the ball goes haywire.&lt;/p&gt;
+&lt;p&gt;With that plot, it’s not the usual for a game of basketball to go haywire but in the world of PLANETRONIKA, it takes a go of a misadventure with a big twist of the millennium fun!&lt;/p&gt;
+&lt;h3&gt;It’s filled with references and memes&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;its-filled-with-references-and-memes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#its-filled-with-references-and-memes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;For those who are Generation Z (people who are born in the Y2K), you may recognized some memes throughout the entire episode like the split second troll face, those three guys on an airplane, and even Butterfly doing the Caramelldansen dance! Have you catch them all?&lt;/p&gt;
+&lt;h3&gt;The Media Verdict for PLANETRONIKA&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-media-verdict-for-planetronika&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-media-verdict-for-planetronika&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Since the show demostrated the vibes of old-fashioned Y2K shows based on its look and feel on the world-building, characters, plot, and setting, MediaPlay gives Rafael Andaya&amp;rsquo;s PLANETRONIKA pilot episode an 11 out of 10 with average grade of A+! The extra point was given due to the fact that a lot of detail and remembrance of nostalgia was put in during the making of the pilot episode!&lt;/p&gt;
+&lt;p&gt;To check out the full pilot episode, watch the episode only on &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 16 16&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104l.022.26l.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105l-.009.104c-.05.572-.124 1.14-.235 1.558a2.007 2.007 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006l-.087-.004l-.171-.007l-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.007 2.007 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31.4 31.4 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103l.003-.052l.008-.104l.022-.26l.01-.104c.048-.519.119-1.023.22-1.402a2.007 2.007 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007l.172-.006l.086-.003l.171-.007A99.788 99.788 0 0 1 7.858 2h.193zM6.4 5.209v4.818l4.157-2.408L6.4 5.209z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+&lt;strong&gt;YouTube&lt;/strong&gt;!&lt;/p&gt;
+&lt;h2&gt;Video Games Are Everything&amp;hellip;But In A Deadly Twist&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;video-games-are-everythingbut-in-a-deadly-twist&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#video-games-are-everythingbut-in-a-deadly-twist&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;While GLITCH Productions is focusing on stuff related to the final episode of &lt;em&gt;The Amazing Digital Circus&lt;/em&gt; and its movie premiere of both Episode 8 and 9 for all movie theaters across the globe for this summer, they have released a new show called &lt;em&gt;Gameoverse&lt;/em&gt; that is created and directed by Ross O&amp;rsquo;Donovan, while Arin Hanson, who is famously known online as the co-host of &lt;em&gt;Game Grumps&lt;/em&gt; on YouTube, co-written the show. This action-pack adventure is consist the idea of where video games meets the apocolypse as each game world gets destroyed if that world doesn&amp;rsquo;t get saved.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.animationmagazine.net/wordpress/wp-content/uploads/Gameoverse-101.jpg&#34; alt=&#34;Gameoverse&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;As the show was released on Friday last week, fans were starting to see a bit of fan service from the episode since it is actually a beach episode and then there was some backlash over this. Because of this, many people were extremely upset in regards to the design choices of the outfits that were worn by Kit and Miss Information,&lt;/p&gt;
+&lt;h3&gt;MEDIA BREAKING: TADC Episode 9 Got LEAKED!&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;media-breaking-tadc-episode-9-got-leaked&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#media-breaking-tadc-episode-9-got-leaked&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This is surprisingly shocking, and also in big spoiling disbelief, so by the time of posting our first episode, not too long ago, when I was looking at my &lt;strong&gt;YouTube&lt;/strong&gt; subscriptions, saw a post from Ayy Lmao sharing some shocking news that someone has leaked the final episode of &lt;em&gt;The Amazing Digital Circus.&lt;/em&gt; As this sounds bad, this is most likely gonna be spread everywhere online and it will result in GLITCH Productions or Gooseworx submitting DMCA copyright takedowns to avoid the leaks from spreading.&lt;/p&gt;
+&lt;p&gt;At MediaPlay, in my defense as a host, publishing unreleased material from an overrated show can lead some spoilers and people can have serious reactions of what the ending would be from the show. I advise not to look at the leaks that are spreading online and wait until the actual premiere of the final episode of TADC in your local movie theater, YouTube and potentially on Netflix.&lt;/p&gt;
+&lt;h2&gt;The Fans of Helluva Boss Got Chaz’d…once again.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-fans-of-helluva-boss-got-chazdonce-again&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-fans-of-helluva-boss-got-chazdonce-again&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://i.redd.it/ntczr0ea7j1h1.jpeg&#34; alt=&#34;Sharkboy Summer Thumbnail&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;We are now heading into VivziePop territory for this first episode, as Friday also marked the release of a new short or a music video from SpindleHorse’s show &lt;em&gt;Helluva Boss&lt;/em&gt;. Originally, the socials channels of SpindleHorse Toons posted an image of what fans originally thought that the next short will involve Verosika Mayday due to the appearance of a character shown at the underwater perspective at a local pool.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://preview.redd.it/thoughts-on-short-12-shark-boy-summer-short-or-song-v0-e42t7bbmtj1h1.png?width=1080&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ba48558253b2ddfbfac2d1ce25675359cfda8041&#34; alt=&#34;Twiiter Post&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;However, that all changed when the voice actor of Chaz, whose character had appeared from the April Fools short and also from the earlier episodes of the show, posted on Instagram sharing a hint that its not Verosika while he was swimming in the pool.&lt;/p&gt;
+&lt;p&gt;So it appears that Chaz or Zahc or &lt;em&gt;whatever his name is&lt;/em&gt;, was most likely to appear again for the new short. On the day of the short’s release, we were flabbergasted of a music video titled “Sharkboy Summer”.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;In all honesty, Chaz is NOT dead dead. If I can recall on the April Fools short featuring this character, all we know that he is still alive, under the fake Zahc persona, basically got his teeth ripped by Moxxie’s father and got new shark dentures.&lt;/em&gt; But this theory maybe true by the fans or if I’m strongly correct on this. For now, &lt;strong&gt;we will never know whether if its Chaz or his “twin brother” nor that he is actually DEAD that may not stop him from his game of being the most perverted character in the entire series.&lt;/strong&gt; But that’s just my opinion in a way, not to be disrespectful to the show’s VAs and the main creator.&lt;/p&gt;
+&lt;p&gt;For the context of the music video, this is basically a song of Chaz’s seductive territory, mostly bragging about his big appendage as he screws around with other sinners around the Envy ring and “he won’t stop until he finishes”. To be honest, I think I have my fair shares of seeing weird things around the internet and mostly stuff in the show but this was &lt;em&gt;WAYYYYYY&lt;/em&gt; overboard that the short was too much Chaz, &lt;em&gt;if you know what I mean.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Overall, aside from that seductive weirdo, we are still looking forward for the upcoming seasons of Helluva Boss, and also the new seasons of Hazbin Hotel from SpindleHorse which will coming soon on YouTube and on Amazon Prime Video. Please continue to follow the social channels of SpindleHorse for more updates and details in regards to the Helluvaverse.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>v2.1.0 - MediaPlay Update</title>
+      <link>http://localhost:1313/help/updates/v210-update/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/help/updates/v210-update/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/help_index/recentchanges.webp&#34; alt=&#34;Update&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This version introduces the new functionality related to our new MediaPlay newsletter which is the brand new homepage ticker and RSS feed, with the addition of improvements to the website.&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;New Features&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;new-features&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#new-features&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Introducing the MediaPlay news ticker&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;introducing-the-mediaplay-news-ticker&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#introducing-the-mediaplay-news-ticker&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://benfernandezmedia.github.io/images/logo.png&#34; alt=&#34;MediaPlay Logo&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;a href=&#34;#introducing-the-mediaplay-news-ticker&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/logo.png&#34; alt=&#34;MediaPlay Logo&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;During last weekend, a lot of hard work has been done on the website to intergrate the new MediaPlay newsletter idea and it has been successfully done by creating a brand new ticker that will display all content related MediaPlay on our homepage for easy access!&lt;/p&gt;
-&lt;p&gt;When working on the new ticker, that hard work consists of using Chrome&amp;rsquo;s Inspect Element and development tools to shape the look and feel of the ticker and this is what it looks like and the first thing you will see on the homepage:&lt;/p&gt;
-&lt;div id=&#34;mediaplay-container&#34; style=&#34;width: 100%; margin-top: 25px; display: flex; gap: 1px; box-shadow: 0px 0px 2px inset; border-radius: 12px;&#34;&gt;
-
-    
-    &lt;div id=&#34;logo-container&#34; style=&#34;flex: 1; display: flex; justify-content: center; align-items: center; max-width: 14%; background: linear-gradient(180deg, #545454 5%, #7e7e7e 35%, #232323 98%); padding-top: 5px; padding-bottom: 5px; border-top-left-radius: 12px; border-bottom-left-radius: 12px;&#34;&gt;
-        &lt;a href=&#34;https://benfernandezmedia.github.io/mediaplay/&#34; style=&#34;display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;&#34;&gt;
-            &lt;img src=&#34;images/mediaplay_logo_ticker.png&#34; alt=&#34;MediaPlay Logo&#34; style=&#34;max-width: 60%; height: auto; padding-top: 5px; padding-bottom: 5px;&#34;&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-
-    
-    &lt;div id=&#34;content-container&#34; style=&#34;flex: 2; padding-top: 10px; padding-bottom: 10px; display: flex; flex-direction: column; justify-content: center; position: relative;&#34;&gt;
-        &lt;style&gt;
-            @keyframes mediaplayWelcomeFade {
-                0% { opacity: 0; }
-                40% { opacity: 1; }
-                80% { opacity: 1; }
-                100% { opacity: 0; }
-            }
-            @keyframes mediaplayDateFade {
-                0% { opacity: 0; }
-                10% { opacity: 1; }
-                80% { opacity: 1; }
-                100% { opacity: 0; }
-            }
-            @keyframes mediaplayTickerFade {
-                0% { opacity: 0; }
-                100% { opacity: 1; }
-            }
-            .mediaplay-welcome {
-                color: currentColor;
-                font-size: 1em;
-                opacity: 1;
-                animation: mediaplayWelcomeFade 3s ease forwards;
-            }
-
-            .mediaplay-ticker {
-                opacity: 0;
-                animation: mediaplayTickerFade 1s ease forwards 2.8s;
-            }
-        &lt;/style&gt;
-
-        
-        &lt;div id=&#34;mediaplay-welcome&#34; class=&#34;mediaplay-welcome&#34; style=&#34;display: flex; justify-content: center; align-items: center; min-height: 1.8em;&#34;&gt;
-            Welcome to Benjamin Fernandez Media! Now loading MediaPlay content...
-        &lt;/div&gt;
-
-        
-        &lt;div id=&#34;mediaplay-ticker&#34; class=&#34;mediaplay-ticker&#34; style=&#34;position: absolute; inset: 0; display: flex; align-items: center;&#34;&gt;
-            &lt;marquee behavior=&#34;scroll&#34; direction=&#34;left&#34; scrollamount=&#34;5&#34; style=&#34;width: 100%; color: currentColor; font-size: 1em;&#34;&gt;
-                
-                
-                    &lt;span style=&#34;display:inline-block; margin-right:24px;&#34;&gt;Hey there, this is Crystal! As you can see, this ticker will be updated with the latest MediaPlay content on the homepage! Once the articles are published and available, they will appear here.&lt;/span&gt;
-                
-            &lt;/marquee&gt;
-        &lt;/div&gt;
-
-        
-        &lt;script&gt;
-            document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
-                var visited = localStorage.getItem(&#39;bfm-mediaplay-visited&#39;);
-                var welcomeEl = document.getElementById(&#39;mediaplay-welcome&#39;);
-                var tickerEl = document.getElementById(&#39;mediaplay-ticker&#39;);
-
-                if (visited) {
-                    if (welcomeEl) {
-                        welcomeEl.style.display = &#39;none&#39;;
-                    }
-                    if (tickerEl) {
-                        tickerEl.style.opacity = &#39;1&#39;;
-                        tickerEl.style.animation = &#39;none&#39;;
-                    }
-                } else {
-                    localStorage.setItem(&#39;bfm-mediaplay-visited&#39;, &#39;true&#39;);
-                }
-            });
-        &lt;/script&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;link-container&#34; style=&#34;width: 100%; display: flex; justify-content: space-between;&#34;&gt;
-    &lt;div id=&#34;rss-link&#34; style=&#34;color: currentColor; font-size: 0.9em; padding: 5px; display: flex; justify-content: flex-start; align-items: center;&#34;&gt;
-       &lt;a href=&#34;https://benfernandezmedia.github.io/mediaplay/index.xml&#34;&gt;Subscribe to the MediaPlay RSS Feed&lt;/a&gt;
-    &lt;/div&gt;
-
-    &lt;div id=&#34;date&#34; style=&#34;color: currentColor; font-size: 0.9em; padding: 5px; display: flex; justify-content: flex-end; align-items: center;&#34;&gt;
-        May 19, 2026
-    &lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;When working on the new ticker, that hard work consists of using Chrome&amp;rsquo;s Inspect Element and development tools to shape the look and feel of the ticker and it will be the first thing you will see on the homepage.&lt;/p&gt;
 &lt;p&gt;Although, this is the first time a long-time HTML tag called &lt;code&gt;&amp;lt;marquee&amp;gt;&lt;/code&gt; is used, Hugo&amp;rsquo;s code and functionality to display the article title were added so you can access the articles instantly. But for now, since we are writing down the first issue of MediaPlay, you will see Crystal&amp;rsquo;s message that is currently showing on the ticker. As soon as all articles for MediaPlay are populated, &lt;strong&gt;you won&amp;rsquo;t see her message on the ticker any longer.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In addition to the ticker, the RSS feed for MediaPlay, is now available and we have updated the RSS subscription guide to add the new link to that feed.&lt;/p&gt;
 &lt;h2&gt;Fixes and Improvements&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;fixes-and-improvements&#34;&gt;&lt;/span&gt;
@@ -150,14 +178,14 @@
     
     <item>
       <title>MediaPlay Introduction</title>
-      <link>https://benfernandezmedia.github.io/blog/mediaplay-introduction/</link>
+      <link>http://localhost:1313/blog/mediaplay-introduction/</link>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://benfernandezmedia.github.io/blog/mediaplay-introduction/</guid>
+      <guid>http://localhost:1313/blog/mediaplay-introduction/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;https://benfernandezmedia.github.io/images/promo/mediaplay_crystal.png&#34; alt=&#34;MediaPlay Promo Banner&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/promo/mediaplay_crystal.png&#34; alt=&#34;MediaPlay Promo Banner&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hi, I&amp;rsquo;m Crystal!&lt;/strong&gt; The main hostess of the brand new MediaPlay newsletter here on the official website of BFM and also on Patreon!&lt;/p&gt;
 &lt;p&gt;MediaPlay is the all-new newsletter where I review what&amp;rsquo;s going on in the world of digital entertainment, gaming, and new stuff related to indie animations that has been going around in the center of the web and on-demand through streaming platforms.&lt;/p&gt;
 &lt;p&gt;We have a lot to check out in the future as we dig deep into what&amp;rsquo;s hot across the communities around your favorite content and, of course, look at what&amp;rsquo;s coming soon for the content you want to see!&lt;/p&gt;

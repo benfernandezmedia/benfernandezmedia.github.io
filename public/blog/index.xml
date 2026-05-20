@@ -1,14 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin Fernandez Media – Creator&#39;s Blog</title>
-    <link>https://benfernandezmedia.github.io/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Creator&#39;s Blog on Benjamin Fernandez Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Benjamin Fernandez Media, All rights reserved.</copyright>
     <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://benfernandezmedia.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -18,14 +18,14 @@
     
     <item>
       <title>MediaPlay Introduction</title>
-      <link>https://benfernandezmedia.github.io/blog/mediaplay-introduction/</link>
+      <link>http://localhost:1313/blog/mediaplay-introduction/</link>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://benfernandezmedia.github.io/blog/mediaplay-introduction/</guid>
+      <guid>http://localhost:1313/blog/mediaplay-introduction/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;https://benfernandezmedia.github.io/images/promo/mediaplay_crystal.png&#34; alt=&#34;MediaPlay Promo Banner&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/promo/mediaplay_crystal.png&#34; alt=&#34;MediaPlay Promo Banner&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hi, I&amp;rsquo;m Crystal!&lt;/strong&gt; The main hostess of the brand new MediaPlay newsletter here on the official website of BFM and also on Patreon!&lt;/p&gt;
 &lt;p&gt;MediaPlay is the all-new newsletter where I review what&amp;rsquo;s going on in the world of digital entertainment, gaming, and new stuff related to indie animations that has been going around in the center of the web and on-demand through streaming platforms.&lt;/p&gt;
 &lt;p&gt;We have a lot to check out in the future as we dig deep into what&amp;rsquo;s hot across the communities around your favorite content and, of course, look at what&amp;rsquo;s coming soon for the content you want to see!&lt;/p&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>Upcoming Projects That I&#39;m Returning To Work On</title>
-      <link>https://benfernandezmedia.github.io/blog/upcoming-projects-returning-to-work-on/</link>
+      <link>http://localhost:1313/blog/upcoming-projects-returning-to-work-on/</link>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://benfernandezmedia.github.io/blog/upcoming-projects-returning-to-work-on/</guid>
+      <guid>http://localhost:1313/blog/upcoming-projects-returning-to-work-on/</guid>
       <description>
         
         
@@ -69,10 +69,10 @@
     
     <item>
       <title>Nikki from Swapnote and Swapdoodle gets illustrated as the first Nintendo illustration of the year!</title>
-      <link>https://benfernandezmedia.github.io/blog/nikki-gets-drawn/</link>
+      <link>http://localhost:1313/blog/nikki-gets-drawn/</link>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://benfernandezmedia.github.io/blog/nikki-gets-drawn/</guid>
+      <guid>http://localhost:1313/blog/nikki-gets-drawn/</guid>
       <description>
         
         
@@ -96,10 +96,10 @@
     
     <item>
       <title>Making of the Promotional Artwork for Enhanced</title>
-      <link>https://benfernandezmedia.github.io/blog/making-of-enhanced-promo-art/</link>
+      <link>http://localhost:1313/blog/making-of-enhanced-promo-art/</link>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://benfernandezmedia.github.io/blog/making-of-enhanced-promo-art/</guid>
+      <guid>http://localhost:1313/blog/making-of-enhanced-promo-art/</guid>
       <description>
         
         

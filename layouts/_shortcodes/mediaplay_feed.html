@@ -49,7 +49,7 @@
             <marquee behavior="scroll" direction="left" scrollamount="5" style="width: 100%; color: currentColor; font-size: 1em;">
                 {{ $pages := where .Site.RegularPages "Section" "mediaplay" }}
                 {{ if gt (len $pages) 0 }}
-                    {{ range first 5 $pages }}<span style="display:inline-block; margin-right:24px;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></span>{{ end }}
+                    {{ range first 5 $pages }}<span style="display:inline-block; margin-right:24px;"><a href="{{ .RelPermalink }}">{{ .Title }} – <i>{{ .Description }}</i></a></span>{{ end }}
                 {{ else }}
                     <span style="display:inline-block; margin-right:24px;">Hey there, this is Crystal! As you can see, this ticker will be updated with the latest MediaPlay content on the homepage! Once the articles are published and available, they will appear here.</span>
                 {{ end }}

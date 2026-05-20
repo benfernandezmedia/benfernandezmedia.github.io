@@ -1,14 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin Fernandez Media – Projects</title>
-    <link>https://benfernandezmedia.github.io/tags/projects/</link>
+    <link>http://localhost:1313/tags/projects/</link>
     <description>Recent content in Projects on Benjamin Fernandez Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Benjamin Fernandez Media, All rights reserved.</copyright>
     <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://benfernandezmedia.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -18,10 +18,10 @@
     
     <item>
       <title>Upcoming Projects That I&#39;m Returning To Work On</title>
-      <link>https://benfernandezmedia.github.io/blog/upcoming-projects-returning-to-work-on/</link>
+      <link>http://localhost:1313/blog/upcoming-projects-returning-to-work-on/</link>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://benfernandezmedia.github.io/blog/upcoming-projects-returning-to-work-on/</guid>
+      <guid>http://localhost:1313/blog/upcoming-projects-returning-to-work-on/</guid>
       <description>
         
         

@@ -1,14 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin Fernandez Media – Behindthescenes</title>
-    <link>https://benfernandezmedia.github.io/tags/behindthescenes/</link>
+    <link>http://localhost:1313/tags/behindthescenes/</link>
     <description>Recent content in Behindthescenes on Benjamin Fernandez Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Benjamin Fernandez Media, All rights reserved.</copyright>
     <lastBuildDate>Fri, 06 Feb 2026 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://benfernandezmedia.github.io/tags/behindthescenes/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/behindthescenes/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -18,10 +18,10 @@
     
     <item>
       <title>Making of the Promotional Artwork for Enhanced</title>
-      <link>https://benfernandezmedia.github.io/blog/making-of-enhanced-promo-art/</link>
+      <link>http://localhost:1313/blog/making-of-enhanced-promo-art/</link>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://benfernandezmedia.github.io/blog/making-of-enhanced-promo-art/</guid>
+      <guid>http://localhost:1313/blog/making-of-enhanced-promo-art/</guid>
       <description>
         
         

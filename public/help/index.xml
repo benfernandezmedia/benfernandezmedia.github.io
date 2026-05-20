@@ -1,14 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin Fernandez Media – Help and Information</title>
-    <link>https://benfernandezmedia.github.io/help/</link>
+    <link>http://localhost:1313/help/</link>
     <description>Recent content in Help and Information on Benjamin Fernandez Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Benjamin Fernandez Media, All rights reserved.</copyright>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://benfernandezmedia.github.io/help/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/help/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -18,17 +18,17 @@
     
     <item>
       <title>Credits</title>
-      <link>https://benfernandezmedia.github.io/help/credits/</link>
+      <link>http://localhost:1313/help/credits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benfernandezmedia.github.io/help/credits/</guid>
+      <guid>http://localhost:1313/help/credits/</guid>
       <description>
         
         
         &lt;p&gt;© 2026 Benjamin Fernandez Media, All rights reserved. Enhanced, Unfragmented, BlueSoap, BlueSoap Interactive, the &amp;ldquo;Less AI, More Human Creativity&amp;rdquo; stance, &amp;ldquo;What&amp;rsquo;s on the other side?&amp;rdquo; tagline, branding aesthetics, and other related logos, original characters, illustrations, designs, and assets are the intellectual properties of Benjamin Fernandez.&lt;/p&gt;
 &lt;p&gt;Artwork/Illustrations © 2019-2026 Benjamin Fernandez, All rights reserved.&lt;/p&gt;
 &lt;p&gt;The author of the website and its content wants to acknowledge that all visuals including the characters, assets, and of course all of the projects that are showcased here is created by a real human being, not with AI-generative tools as every project displays the Not By AI badge with the exception of some content that is displayed here on the site.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://benfernandezmedia.github.io/images/homepage/notbyai_created.webp&#34; alt=&#34;Not By AI&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/homepage/notbyai_created.webp&#34; alt=&#34;Not By AI&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h2&gt;Framework and Hosting&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;framework-and-hosting&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#framework-and-hosting&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The official website is powered by the following frameworks, theme, and hosting:&lt;/p&gt;
 &lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
@@ -110,10 +110,10 @@
     
     <item>
       <title>Questions and Answers</title>
-      <link>https://benfernandezmedia.github.io/help/questions-and-answers/</link>
+      <link>http://localhost:1313/help/questions-and-answers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benfernandezmedia.github.io/help/questions-and-answers/</guid>
+      <guid>http://localhost:1313/help/questions-and-answers/</guid>
       <description>
         
         
@@ -168,7 +168,7 @@
     &lt;strong class=&#34;hx:text-lg&#34;&gt;Q. What is your stance on AI content?&lt;/strong&gt;
   &lt;/summary&gt;
   &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
-    &lt;p&gt;&lt;img src=&#34;https://benfernandezmedia.github.io/images/aistance.webp&#34; alt=&#34;LessAIMoreHuman&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/aistance.webp&#34; alt=&#34;LessAIMoreHuman&#34;  data-zoomable loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; With all the respect, I am not anti-AI or such but I do know that most artists don&amp;rsquo;t tolerate AI-generated art that has been everywhere online. But to me, in order to ensure that all of my content is genuine, I always implement the badges from Not By AI and also follow the &lt;em&gt;Less AI, More Human Creativity&lt;/em&gt; stance that I&amp;rsquo;ve designed. It&amp;rsquo;s a principle that to ensure that AI is respectfully used, I mainly use AI only for research, feedback, suggestions, and of course verification based on my behalf as a creator but I don&amp;rsquo;t use it to generate visuals and post them online as it can harm future artists for inspiration.&lt;/p&gt;
 
   &lt;/div&gt;
