@@ -1,7 +1,7 @@
 ---
 title: Special Announcement - Website v3.0 in development
 description: A special announcement in regards to a brand new version of the official website.
-publishDate: 2026-05-24T09:32:00
+publishDate: 2026-05-24T09:32:00-0400
 authors:
   - name: Benjamin Fernandez
     url: https://instagram.com/benfernandezmedia
