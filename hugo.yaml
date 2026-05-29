@@ -3,6 +3,9 @@ title: Benjamin Fernandez Media
 locale: en
 baseURL: https://benfernandezmedia.github.io/
 
+# Time Zone Configuration - Setting the default time zone for the site to New York.
+timeZone: America/New_York
+
 copyright: © 2026 Benjamin Fernandez Media, All rights reserved.
 
 ### Hugo Module and Theme Configuration
@@ -95,10 +98,6 @@ menu:
 
 ### Hugo Parameters
 params:
-
-  # Time Zone Configuration - Setting the default time zone for the site to New York.
-  timeZone: America/New_York
-
   # Open Graph - This is used for social media, showing the site preview when link is shared.
   images:
     - /images/social_preview.png
