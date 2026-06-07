@@ -1,76 +1,24 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+    <loc>https://benfernandezmedia.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/mediaplay/indie-animations-gone-wild/</loc>
-    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+    <loc>https://benfernandezmedia.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/mediaplay/</loc>
-    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+    <loc>https://benfernandezmedia.github.io/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/mediaplay/</loc>
-    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+    <loc>https://benfernandezmedia.github.io/help/credits/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+    <loc>https://benfernandezmedia.github.io/help/</loc>
   </url><url>
-    <loc>http://localhost:1313/help/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+    <loc>https://benfernandezmedia.github.io/mediaplay/</loc>
   </url><url>
-    <loc>http://localhost:1313/help/updates/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+    <loc>https://benfernandezmedia.github.io/help/qna/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/updates/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+    <loc>https://benfernandezmedia.github.io/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/help/updates/v210-update/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/mediaplay-introduction/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/help/updates/v205-improvements/</loc>
-    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/projects/</loc>
-    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/upcoming-projects-returning-to-work-on/</loc>
-    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/nikki-gets-drawn/</loc>
-    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/nintendo/</loc>
-    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/swapnotenikki/</loc>
-    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/upcoming/</loc>
-    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/help/updates/v2-update/</loc>
-    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/behindthescenes/</loc>
-    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/making-of-enhanced-promo-art/</loc>
-    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/help/credits/</loc>
-  </url><url>
-    <loc>http://localhost:1313/howtosubscribe/</loc>
-  </url><url>
-    <loc>http://localhost:1313/help/questions-and-answers/</loc>
+    <loc>https://benfernandezmedia.github.io/help/updates/</loc>
   </url>
 </urlset>
