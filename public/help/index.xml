@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin Fernandez Media – Help and Information</title>
-    <link>https://benfernandezmedia.github.io/help/</link>
+    <link>http://localhost:1313/help/</link>
     <description>Recent content in Help and Information on Benjamin Fernandez Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>© 2026 Benjamin Fernandez Media, All rights reserved.</copyright>
     
-	  <atom:link href="https://benfernandezmedia.github.io/help/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/help/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,14 +17,14 @@
     
     <item>
       <title>Credits and Acknowledgements</title>
-      <link>https://benfernandezmedia.github.io/help/credits/</link>
+      <link>http://localhost:1313/help/credits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benfernandezmedia.github.io/help/credits/</guid>
+      <guid>http://localhost:1313/help/credits/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;https://benfernandezmedia.github.io/images/help_index/generic_thumbnail.webp&#34; alt=&#34;Logo&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/help_index/generic_thumbnail.webp&#34; alt=&#34;Logo&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;© 2026 Benjamin Fernandez Media, All rights reserved. Enhanced, Unfragmented, MediaPlay, the MediaPlay logo ( &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em width=&#34;14&#34; height=&#34;14&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
   &lt;path d=&#34;M0 1.37025L4.03341 23.2794C4.5273 23.9904 5.59739 24.2274 6.17359 23.7534L18.7677 13.641V11.4289C18.7677 10.2439 17.9446 9.5798 16.8745 9.5798C15.4747 9.5798 14.8166 10.8759 14.8166 11.4289V16.7221H11.9356V11.4289C11.9356 10.6389 11.4417 9.57967 10.0424 9.57967C8.31377 9.57967 7.98451 10.9549 7.98451 11.4289V16.7221H5.1035V7.365H7.81988V8.34783C10.4539 6.05674 13.4996 7.6368 14.1581 8.74284C16.4664 6.25724 19.7555 7.08378 20.8256 8.58484C21.4889 9.34307 21.731 10.4019 21.6487 11.2709L23.4596 9.84888C24.2686 9.20952 24.0358 8.26883 23.6243 7.87381C23.295 7.5578 22.9529 7.43313 22.8834 7.39979C16.655 5.21405 3.78647 0.700353 2.14018 0.131532C0.493887 -0.437288 0 1.00054 0 1.37025Z&#34; fill=&#34;currentColor&#34;/&gt;
 &lt;/svg&gt;
@@ -33,7 +33,7 @@
 &lt;p&gt;Illustrations and Characters © 2019-2026 Benjamin Fernandez, All rights reserved.&lt;/p&gt;
 &lt;p&gt;The author of the website and its content wants to acknowledge that all visuals including the characters, assets, and of course all of the projects that are showcased here is created by a real human being, not with AI-generative tools as every project displays the Not By AI badge with the exception of some content that is displayed here on the site.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://benfernandezmedia.github.io/images/index/notbyai-dark.webp&#34; title=&#34;Learn about this badge at notbyai.fyi&#34; alt=&#34;Not By AI&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;http://localhost:1313/images/index/notbyai-dark.webp&#34; title=&#34;Learn about this badge at notbyai.fyi&#34; alt=&#34;Not By AI&#34;  loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Learn about this badge at notbyai.fyi&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;Framework and Hosting&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;framework-and-hosting&#34;&gt;&lt;/span&gt;
@@ -73,7 +73,7 @@
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;https://benfernandezmedia.github.io/images/help_index/credits/clipstudiopaint.webp&#34;
+        src=&#34;http://localhost:1313/images/help_index/credits/clipstudiopaint.webp&#34;
         
         
         
@@ -93,7 +93,7 @@
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;https://benfernandezmedia.github.io/images/help_index/credits/figma.webp&#34;
+        src=&#34;http://localhost:1313/images/help_index/credits/figma.webp&#34;
         
         
         
@@ -109,7 +109,7 @@
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;https://benfernandezmedia.github.io/images/help_index/credits/inkscape.webp&#34;
+        src=&#34;http://localhost:1313/images/help_index/credits/inkscape.webp&#34;
         
         
         
@@ -125,7 +125,7 @@
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;https://benfernandezmedia.github.io/images/help_index/credits/obsidian.webp&#34;
+        src=&#34;http://localhost:1313/images/help_index/credits/obsidian.webp&#34;
         
         
         
@@ -141,7 +141,7 @@
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;https://benfernandezmedia.github.io/images/help_index/credits/procreate.webp&#34;
+        src=&#34;http://localhost:1313/images/help_index/credits/procreate.webp&#34;
         
         
         
@@ -161,7 +161,7 @@
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;https://benfernandezmedia.github.io/images/help_index/credits/vscode.webp&#34;
+        src=&#34;http://localhost:1313/images/help_index/credits/vscode.webp&#34;
         
         
         
@@ -178,10 +178,10 @@
     
     <item>
       <title>Questions and Answers</title>
-      <link>https://benfernandezmedia.github.io/help/qna/</link>
+      <link>http://localhost:1313/help/qna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benfernandezmedia.github.io/help/qna/</guid>
+      <guid>http://localhost:1313/help/qna/</guid>
       <description>
         
         
@@ -237,7 +237,7 @@
     &lt;strong class=&#34;hx:text-lg&#34;&gt;Q. What&amp;rsquo;s your stance on AI content?&lt;/strong&gt;
   &lt;/summary&gt;
   &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
-    &lt;p&gt;&lt;img src=&#34;https://benfernandezmedia.github.io/images/aistance.webp&#34; alt=&#34;LessAIMoreHuman-NotByAI&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/aistance.webp&#34; alt=&#34;LessAIMoreHuman-NotByAI&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; With all the respect, I am not anti-AI or such but I do know that most artists don’t tolerate AI-generated art that has been everywhere online. But to me, in order to ensure that all of my content is genuine, I always implement the badges from Not By AI and also follow the Less AI, More Human Creativity stance that I’ve designed. It’s a principle that to ensure that AI is respectfully used, I mainly use AI only for research, feedback, suggestions, and of course verification based on my behalf as a creator but I don’t use it to generate visuals and post them online as it can harm future artists for inspiration.&lt;/p&gt;
 
   &lt;/div&gt;
@@ -266,7 +266,7 @@
     &lt;strong class=&#34;hx:text-lg&#34;&gt;Q. What is MediaPlay?&lt;/strong&gt;
   &lt;/summary&gt;
   &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
-    &lt;p&gt;&lt;img src=&#34;https://benfernandezmedia.github.io/images/mediaplay/logo_banner.webp&#34; alt=&#34;MediaPlay Logo&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/mediaplay/logo_banner.webp&#34; alt=&#34;MediaPlay Logo&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; MediaPlay is a newsletter where one of our characters hosts and report on the news of what&amp;rsquo;s happening in the center of the digital entertainment world! Each issue will also cover news in the gaming, digital media, and also in the entertainment industry!&lt;/p&gt;
 
   &lt;/div&gt;
