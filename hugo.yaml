@@ -122,7 +122,7 @@ params:
   banner:
     key: 'announcement-v300'
     message: |
-      **BFM Official Website** - Development Build - *FOR INTERNAL TESTING ONLY!*
+      **Welcome to Version 3.0!** Explore the new features and improvements in this major update.
 
   # Global Theme Settings
   theme:
