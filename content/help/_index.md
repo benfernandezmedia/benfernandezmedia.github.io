@@ -1,23 +1,18 @@
 ---
 title: Help and Information
-description: Need to learn more about what we do, or finding your way here on the site? This is the place to go!
 layout: hextra-home
+
 ---
 
-<!--Main Hero Container-->
-{{< hextra/hero-container cols="2" image="/images/homepage/hero.webp" imageWidth="500" style="padding: 24px; box-shadow: 0px 0px 2px inset; background-image: url(/images/homepage/container_pattern.webp); border-radius: 24px; margin-bottom: 24px;">}}
-    {{< hextra/hero-headline >}}Help and Information{{< /hextra/hero-headline >}}
-    {{< hextra/hero-section heading="h3" >}}What does this button do?{{< /hextra/hero-section >}}
-    {{< hextra/hero-subtitle style="margin-top: 10px;" >}}Need help finding information on what we do or finding out what has changed recently? Select an option card below!{{< /hextra/hero-subtitle >}}
+{{< hextra/hero-container image="/images/help_index/generic_thumbnail.webp" imageWidth="580" imageCard="true" imageStyle="padding: 0px; box-shadow: 0px 0px 5px currentColor;" style="background-image: url(/images/index/assets/feature-card.webp); background-size: cover; padding: 24px; box-shadow: 0px 0px 8px currentColor inset; border-radius: 24px;" >}}
+  {{< hextra/hero-headline >}}Help and Information{{< /hextra/hero-headline >}}
+  {{< hextra/hero-subtitle style="font-size: 30px;" >}}Looking for some help or finding some info on what we do here? You're at the right place!{{< /hextra/hero-subtitle >}}
 {{< /hextra/hero-container >}}
 
-{{< hextra/feature-grid cols="1" >}}
-    {{< hextra/feature-card link="/howtosubscribe" icon="rss" title="Looking for our RSS feeds to stay updated everywhere you go?" subtitle="Click here to head over to our guide on how to add our feeds to your preferred RSS or e-mail client that supports them." >}}
-{{< /hextra/feature-grid >}}
-
-{{< hextra/feature-grid cols="2" style="margin-top: 24px;" >}}
-    {{< card tag="" icon="question-mark-circle" image="/images/help_index/faq.webp" title="Questions and Answers" subtitle="Got questions? We got you! Learn about the questions that you might ask of what we do here." link="questions-and-answers" >}}
-    {{< card tag="NEW!" tagIcon="sparkles" icon="sparkles" image="/images/help_index/recentchanges.webp" title="Recent Changes" subtitle="View current changes that we did on the website including past features that were introduced." link="updates" >}}
-    {{< card tag="Coming Soon!" icon="academic-cap" image="/images/help_index/lessaimorehuman.webp" title="The Less AI, More Human Creativity Stance" subtitle="Learn about the Less AI, More Human Creativity stance, it's a resource of how to use AI responsibly." link="" >}}
-    {{< card icon="users" image="/images/help_index/credits.webp" title="Credits" subtitle="View copyright, and learn the software and tools we used to build everything!" link="credits" >}}
+<!--Menu Options - Cards-->
+{{< hextra/feature-grid cols="2" style="margin-top: 24px" >}}
+  {{< card link="qna" icon="question-mark-circle" image="/images/help_index/faq.webp" title="Questions and Answers" subtitle="Got any questions you might ask? We have all the answers in regards of what we do here!" >}}
+  {{< card link="updates" icon="sparkles" image="/images/help_index/recentchanges.webp" title="Website Updates" subtitle="Read past and latests changes we made to the official website." >}}
+  {{< card icon="academic-cap" tag="Coming Soon!" image="/images/help_index/lessaimorehuman.webp" title="Less AI, More Human Creativity" subtitle="This option is unavailable as the page doesn't exist. Wait until the next future update!" >}}
+  {{< card link="credits" icon="users" image="/images/help_index/credits.webp" title="Credits and Acknowledgements" subtitle="View copyright and the software we used to create our content and the website." >}}
 {{< /hextra/feature-grid >}}

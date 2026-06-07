@@ -1,11 +1,9 @@
 ---
-title: Recent Changes
-description: Posts related to the changes or updates to the website.
-images:
-  - images/help_index/social_preview.png
 breadcrumbs: true
+title: Website Updates
+description: Read past and latests changes we made to the official website.
+images:
+  - /images/opengraph/update_preview.png
 cascade:
-  # This layout is specific modified and tuned only this page.
-  type: bfm-update
+  type: blog
 ---
-

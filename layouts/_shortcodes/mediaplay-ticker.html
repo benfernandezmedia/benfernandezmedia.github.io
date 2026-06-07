@@ -1,0 +1,27 @@
+<div id="logo-and-tagline" style="display: flex; margin-top: 20px; justify-content: space-between; width: 100%; border-top: 0px solid currentColor; border-left: 0px solid currentColor; border-right: 0px solid currentColor; border-top-left-radius: 14px; border-top-right-radius: 14px; box-shadow: currentColor 0px -0px 6px; padding: 8px;">
+    <!-- Powered by MediaPlay Logo-->
+    <div id="mediaplay-logo" style="display: flex; gap: 2px;">
+        <a href="mediaplay">
+            <img class="hx:block hx:dark:hidden" src="images/mediaplay/mediaplay.svg" width="120" height="50" alt="MediaPlay Logo" />
+            <img class="hx:hidden hx:dark:block" src="images/mediaplay/mediaplayDark.svg" width="120" height="50" alt="MediaPlay Logo" />
+        </a>
+    </div>
+
+    <!-- Tagline -->
+     <div id="tagline" style="padding: 4px;">
+        <p style="font-size: 14px; margin: 0;"><i>Enough talk. Let's play!</i></p>
+     </div>
+</div>
+
+<div id="ticker-container" style="display: flex; gap: 0%; box-shadow: inset currentColor 0px 0px 3px; width: 100%; border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 14px; border-bottom-right-radius: 14px; background: url(/images/index/assets/feature-card.webp); background-size: cover; background-position: center;">
+    <div id="mediaplay-ticker" style="display: flex; justify-content: center; padding: 12px; width: 100%; border-radius: 14px;">
+        <marquee behavior="scroll" direction="left" scrollamount="8">
+            {{ $pages := where .Site.RegularPages "Section" "mediaplay" }}
+            {{ if gt (len $pages) 0 }}
+                {{ range first 5 $pages }}<span style="display:inline-block; margin-right:24px;"><a href="{{ .RelPermalink }}"> <b>{{ .Title }}</b> – <i>{{ .Description }}</i></a></span>{{ end }}
+            {{ else }}
+                <span style="display:inline-block; margin-right:24px;"><b>MediaPlay</b> – <i>Enough talk. Let's play!</i></span>
+            {{ end }}
+        </marquee>
+    </div>
+</div>

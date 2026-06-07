@@ -1,13 +1,10 @@
 ---
 title: 
-date: 2000-01-01
+description:
+publishDate: {{ .Date }}
 authors:
   - name: Rachel Jordan
     image: /images/authors/rachel.png
-tags:
-  - Sample
 sidebar:
   hide: true
 ---
-
-<!--more-->

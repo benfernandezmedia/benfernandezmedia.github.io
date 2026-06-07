@@ -1,53 +1,62 @@
 ---
-description: Official website of Benjamin Fernandez - Creating digital illustrations and media content since the birth of Amira, the creator's first character and mascot in 2019.
+description: Official website of Benjamin Fernandez Media - Creating digital illustrations for the web since the birth of Amira, the creator's mascot, since 2019.
 layout: hextra-home
-width: wide
 ---
 
-<!--Main Hero Container-->
-{{< hextra/hero-container cols="2" image="images/homepage/hero.webp" imageWidth="530" style="padding: 24px; box-shadow: 0px 0px 5px inset; background-image: url(/images/homepage/container_pattern.webp); border-radius: 24px;" >}}
-    {{< hextra/hero-badge style="margin-bottom: 10px;">}}Official website - What's on the other side?{{< /hextra/hero-badge >}}
-    {{< hextra/hero-headline >}}Benjamin Fernandez Media{{< /hextra/hero-headline >}}
-    {{< hextra/hero-section heading="h3" >}}Digital Artist and Content Creator{{< /hextra/hero-section >}}
-    {{< hextra/hero-subtitle style="margin-top: 10px;" >}}I'm just a dude who is mostly creating illustrations, just for fun in the internet, since the birth of Amira, our mascot, since 2019.{{< /hextra/hero-subtitle >}}
-    <div id="notbyai_skills" style="margin-top: 30px; display: flex; gap: 26px;">
-        <a href="https://notbyai.fyi" title="Learn more about the Not By AI badge!">
-            <img src="/images/homepage/notbyai_created.webp" alt="notbyai" width="145"/>
-        </a>
-        <a href="#" title="Instagram: @benfernandezmedia">
-            <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" />
-        </a>
-        <a href="#" title="Obsidian">
-            <img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" />
-        </a>
-        <a href="#" title="All assets and designs are created with Figma">
-            <img src="https://skillicons.dev/icons?i=figma" alt="figma" />
-        </a>
-        <a href="#" title="Content created with Apple Macintosh and iPad">
-            <img src="https://skillicons.dev/icons?i=apple" alt="apple" />
-        </a>
-        <a href="#" title="All programming was done with Visual Studio Code (including this website)">
-            <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" />
-        </a>
-        <a href="#" title="Everything here in the site is written in Markdown! :D">
-            <img src="https://skillicons.dev/icons?i=markdown" alt="markdown"/>
-        </a>
-    </div>
+<!--Main Website Hero Container-->
+{{< hextra/hero-container style="padding: 24px; box-shadow: 00px 0px 10px currentColor inset; background-image: url(/images/index/assets/hero-grid.webp); background-size: cover; border-radius: 24px;" image="/images/index/hero.webp" imageWidth="530" >}}
+  {{< hextra/hero-badge >}}Official website - What's on the other side?{{< /hextra/hero-badge >}}
+  <img class="hx:hidden hx:dark:block" src="/images/navbar/logoDark.svg" width="500" style="margin-top: 6px;" alt="Benjamin Fernandez Logo" />
+  <img class="hx:block hx:dark:hidden" src="/images/navbar/logo.svg" width="500" style="margin-top: 6px;" alt="Benjamin Fernandez Logo" />
+  {{< hextra/hero-section >}}Digital Artist and Illustrator{{< /hextra/hero-section >}}
+  {{< hextra/hero-subtitle style="margin-top: 18px;" >}}I'm just a dude who is basically creating original illustrations just for fun on the internet since the birth of Amira, our content's mascot, in 2019.{{< /hextra/hero-subtitle >}}
+  <div id="container-badges" style="display: flex; gap: 24px; margin-top: 24px;">
+    <a href="http://notbyai.fyi" title="Click here to learn about the Not By AI badge!">
+        <img class="hx:hidden hx:dark:block" src="/images/index/notbyai-dark.webp" width="150" alt="Not By AI Badge" />
+        <img class="hx:block hx:dark:hidden" src="/images/index/notbyai.webp" width="150" alt="Not By AI Badge" />
+    </a>
+    <a href="#" title="Instagram: @benfernandezmedia">
+        <img class="hx:hidden hx:dark:block" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+        <img class="hx:block hx:dark:hidden" src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" />
+    </a>
+    <a href="#" title="Obsidian">
+        <img class="hx:hidden hx:dark:block" src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" />
+        <img class="hx:block hx:dark:hidden" src="https://skillicons.dev/icons?i=obsidian&theme=light" alt="Obsidian" />
+    </a>
+    <a href="#" title="Website Programmed with Visual Studio Code">
+        <img class="hx:hidden hx:dark:block" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
+        <img class="hx:block hx:dark:hidden" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="Visual Studio Code" />
+    </a>
+    <a href="#" title="All assets and designs are created with Figma">
+        <img class="hx:hidden hx:dark:block" src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+        <img class="hx:block hx:dark:hidden" src="https://skillicons.dev/icons?i=figma&theme=light" alt="Figma" />
+    </a>
+    <a href="#" title="Worked with a Apple Macintosh and iPad">
+        <img class="hx:hidden hx:dark:block" src="https://skillicons.dev/icons?i=apple" alt="Apple" />
+        <img class="hx:block hx:dark:hidden" src="https://skillicons.dev/icons?i=apple&theme=light" alt="Apple" />
+    </a>
+    <a href="#" title="Everything is written in Markdown!">
+        <img class="hx:hidden hx:dark:block" src="https://skillicons.dev/icons?i=markdown" alt="Markdown" />
+        <img class="hx:block hx:dark:hidden" src="https://skillicons.dev/icons?i=markdown&theme=light" alt="Markdown" />
+    </a>
+  </div>
 {{< /hextra/hero-container >}}
 
-<!--MediaPlay Feeder Bar-->
-{{< mediaplay_feed >}}
+<!--MediaPlay Ticker-->
+{{< mediaplay-ticker >}}
 
-{{< hextra/feature-grid cols="3" style="margin-top: 24px;" >}}
-    {{< hextra/feature-card icon="rss" title="Creator's Blog" subtitle="Check back often to see updates, announcements, and also behind-the-scenes content of what we do! They are also viewable on Patreon." link="/blog" >}}
-    {{< hextra/feature-card icon="cards" title="Check out the illustrations!" subtitle="To see the current artwork that is published, click here to enter our Cara profile to see our portfolio and its current content." link="https://cara.app/benfernandezmedia" >}}
-    {{< hextra/feature-card icon="sparkles" title="Less AI, More Human Content" subtitle="Every illustration we produce is always 100% human-made. To indicate that its authentic, every artwork includes the badge from Not By AI!" >}}
+<!--Feature Card Section-->
+{{< hextra/feature-grid cols="2" style="margin-top: 24px;" >}}
+  {{< hextra/feature-card style="background-image: url(/images/index/assets/feature-card.webp); background-size: cover;" icon="newspaper" link="/blog" title="Creator's Blog" subtitle="Check back often on the blog to see the latest updates in regards to upcoming and brand new content. RSS is also available to get articles on the go!" >}}
+  {{< hextra/feature-card style="background-image: url(/images/index/assets/feature-card.webp); background-size: cover;" icon="cards" link="https://cara.app/benfernandezmedia" title="Cara Art Portfolio" subtitle="Looking for our illustrations? To see our latest art or content that is currently published online, check our art portfolio on the Cara platform." >}}
+  {{< hextra/feature-card style="background-image: url(/images/index/assets/feature-card.webp); background-size: cover;" icon="sparkles" title="Less AI, More Human Creativity" subtitle="Every artwork is 100% made by a REAL human being, not with AI-generative tools. All content will always have the badges provided by Not By AI!" >}}
+  {{< hextra/feature-card style="background-image: url(/images/index/assets/feature-card.webp); background-size: cover;" icon="mediaplay" link="/mediaplay" title="Read the MediaPlay newsletter!" subtitle="One of our characters hosts the newsletter, where they cover over what's going on in the digital entertainment world! For latest news, click here or check the ticker!" >}}
 {{< /hextra/feature-grid >}}
 
 <!--Projects Section-->
-{{< hextra/hero-headline style="margin-top: 28px;">}}Our Projects{{< /hextra/hero-headline >}}
-{{< hextra/feature-grid cols="3" style="margin-top: 14px; margin-bottom: 32px;">}}
-    {{< card tag="Ongoing" tagIcon="sparkles" title="Enhanced" subtitle="Every illustration...has their legacy..." image="/images/promos/enhanced_promo.webp" >}}
-    {{< card tag="Project On Hold"  tagIcon="code" title="Unfragmented" subtitle="Never forget your memories...or you'll be ceased!" image="images/promos/unfragmented_promo.webp" >}}
-    {{< card tag="For Obsidian" tagIcon="obsidian"  title="Splash Screen for Obsidian" subtitle="A customizable CSS snippet for your Obsidian vault" image="images/promos/splashscreen.webp" link="https://github.com/benfernandezmedia/obsidian-splashscreen">}}
+{{< hextra/hero-headline style="margin-top: 24px;" >}}Our Projects{{< /hextra/hero-headline >}}
+{{< hextra/feature-grid cols="3" style="margin-top: 8px;" >}}
+  {{< card tagIcon="sparkles" tag="Ongoing" image="/images/index/promos/enhanced.webp" title="Enhanced" subtitle="Every illustration has their own legacy..." >}}
+  {{< card tagIcon="code" tag="On Hold" image="/images/index/promos/unfragmented.webp" title="Unfragmented" subtitle="Never forget your memories...or you'll be ceased!" >}}
+  {{< card link="https://github.com/benfernandezmedia/obsidian-splashscreen" tagIcon="obsidian" tag="For Obsidian" image="/images/index/promos/obsidiansplash.webp" title="Splash Screen CSS Snippet" subtitle="A simple splash screen snippet for your Obsidian vault." >}}
 {{< /hextra/feature-grid >}}
