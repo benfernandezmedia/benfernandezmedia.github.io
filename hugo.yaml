@@ -122,13 +122,42 @@ params:
   banner:
     key: 'announcement-v300'
     message: |
-      **Welcome to Version 3.0!** Explore the new features and improvements in this major update.
+      **Version 3.0 is here!** Check the [update post!](/help/updates/welcome-to-version3)
 
   # Global Theme Settings
   theme:
     # light | dark | system
     default: system
     displayToggle: false
+
+  # Parse Git commit
+  enableGitInfo: true
+
+  # Display last modified date
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+  # Display the author of last modification
+  displayUpdatedAuthor: true
+
+  # Markup Configuration
+  markup:
+    goldmark:
+      renderer:
+        unsafe: true
+      highlight:
+        noClasses: false
+
+  # Image Zoom Settings
+  imageZoom:
+    enable: true
+
+  # Blog Configuration
+  blog:
+    list:
+      displayTags: true
+  
+  toc:
+    displayTags: true
 
   # Inline Shortcodes Setting
   enableInlineShortcodes: true

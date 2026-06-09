@@ -1,14 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Benjamin Fernandez Media – Website Updates</title>
-    <link>http://localhost:1313/help/updates/</link>
-    <description>Recent content in Website Updates on Benjamin Fernandez Media</description>
+    <title>Benjamin Fernandez Media – Website</title>
+    <link>http://localhost:1313/tags/website/</link>
+    <description>Recent content in Website on Benjamin Fernandez Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>© 2026 Benjamin Fernandez Media, All rights reserved.</copyright>
     <lastBuildDate>Mon, 08 Jun 2026 20:41:00 -0400</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/help/updates/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/website/index.xml" rel="self" type="application/rss+xml" />
     
     
       

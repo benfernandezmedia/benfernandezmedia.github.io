@@ -1,147 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Benjamin Fernandez Media – Creator&#39;s Blog</title>
-    <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Creator&#39;s Blog on Benjamin Fernandez Media</description>
+    <title>Benjamin Fernandez Media – Mediaplay</title>
+    <link>http://localhost:1313/tags/mediaplay/</link>
+    <description>Recent content in Mediaplay on Benjamin Fernandez Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>© 2026 Benjamin Fernandez Media, All rights reserved.</copyright>
+    <lastBuildDate>Wed, 20 May 2026 19:45:00 -0400</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/mediaplay/index.xml" rel="self" type="application/rss+xml" />
     
     
       
         
       
     
-    
-    <item>
-      <title>v3.0 - Welcome to Version 3.0!</title>
-      <link>http://localhost:1313/help/updates/welcome-to-version3/</link>
-      <pubDate>Mon, 08 Jun 2026 20:41:00 -0400</pubDate>
-      
-      <guid>http://localhost:1313/help/updates/welcome-to-version3/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/updatebanners/updatebanner-v3.webp&#34; alt=&#34;Update Banner&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;After a long development week or two to fix improvements in the overall website experience, it is my pleasure to announce that the website has been officially updated to &lt;strong&gt;Version 3.0!&lt;/strong&gt; This update introduces some major changes to the site, including: a new ticker for &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em width=&#34;14&#34; height=&#34;14&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
-  &lt;path d=&#34;M0 1.37025L4.03341 23.2794C4.5273 23.9904 5.59739 24.2274 6.17359 23.7534L18.7677 13.641V11.4289C18.7677 10.2439 17.9446 9.5798 16.8745 9.5798C15.4747 9.5798 14.8166 10.8759 14.8166 11.4289V16.7221H11.9356V11.4289C11.9356 10.6389 11.4417 9.57967 10.0424 9.57967C8.31377 9.57967 7.98451 10.9549 7.98451 11.4289V16.7221H5.1035V7.365H7.81988V8.34783C10.4539 6.05674 13.4996 7.6368 14.1581 8.74284C16.4664 6.25724 19.7555 7.08378 20.8256 8.58484C21.4889 9.34307 21.731 10.4019 21.6487 11.2709L23.4596 9.84888C24.2686 9.20952 24.0358 8.26883 23.6243 7.87381C23.295 7.5578 22.9529 7.43313 22.8834 7.39979C16.655 5.21405 3.78647 0.700353 2.14018 0.131532C0.493887 -0.437288 0 1.00054 0 1.37025Z&#34; fill=&#34;currentColor&#34;/&gt;
-&lt;/svg&gt;
-&lt;/span&gt;
-MediaPlay, improvements to some icons and dark mode, and an &lt;strong&gt;updated layout for the home page!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;As I continue to work on the website to add new features and pages, this can eventually be populated with more content, especially for the MediaPlay newsletter, but for now, let&amp;rsquo;s enjoy what we have in this major update and &lt;em&gt;see what&amp;rsquo;s new on the official website of BFM!&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;New Features&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;new-features&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#new-features&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Redesigned Home Layout&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;redesigned-home-layout&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#redesigned-home-layout&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div
-  class=&#34;hextra-feature-grid hx:grid hx:sm:max-lg:grid-cols-2 hx:max-sm:grid-cols-1 hx:gap-4 hx:w-full not-prose&#34;
-  style=&#34;--hextra-feature-grid-cols: 2; margin-top: 14px;&#34;
-&gt;
-  
-  
-      &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;&gt;&lt;img
-        alt=&#34;Before the redesign&#34;
-        class=&#34;hextra-card-image&#34;
-        loading=&#34;lazy&#34;
-        decoding=&#34;async&#34;
-        src=&#34;http://localhost:1313/images/old_layout.webp&#34;
-        
-        
-        
-      /&gt;&lt;div class=&#34;hx:mt-auto&#34;&gt;
-      &lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Before the redesign&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
-  
-      &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;&gt;&lt;img
-        alt=&#34;After the redesign&#34;
-        class=&#34;hextra-card-image&#34;
-        loading=&#34;lazy&#34;
-        decoding=&#34;async&#34;
-        src=&#34;http://localhost:1313/images/new_layout.webp&#34;
-        
-        
-        
-      /&gt;&lt;div class=&#34;hx:mt-auto&#34;&gt;
-      &lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;After the redesign&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;After doing some research using the &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
- &lt;strong&gt;Developer Tools&lt;/strong&gt; on Chrome, I paid close attention to the image classes that control how both light and dark versions of my logo are viewed when the theme is toggled or how the theme behaves based on how your system is configured for dark mode.&lt;/p&gt;
-&lt;p&gt;By using &lt;code&gt;hx:hidden hx:dark:block&lt;/code&gt; for the dark logo and &lt;code&gt;hx:block hx:dark:hidden&lt;/code&gt; for the light logo, the former text that represents the brand is now replaced with the logo to ensure that the brand is more recognizable! Plus, the icons for the Not By AI badge and the stuff I use to make the site and content have also been updated with their appropriate classes!&lt;/p&gt;
-&lt;p&gt;For the icons that displayed the skills I use to make the site, I performed some trial and error when programming the icons to switch from light to dark by adding an additional container for the light-themed icons and trying to hide them when the theme is toggled. However, it didn&amp;rsquo;t work until &lt;strong&gt;I found a solution.&lt;/strong&gt;&lt;/p&gt;
-&lt;div
-  class=&#34;hextra-feature-grid hx:grid hx:sm:max-lg:grid-cols-2 hx:max-sm:grid-cols-1 hx:gap-4 hx:w-full not-prose&#34;
-  style=&#34;--hextra-feature-grid-cols: 2; margin-top: 14px;&#34;
-&gt;
-  
-  
-      &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;&gt;&lt;img
-        alt=&#34;Before the redesign&#34;
-        class=&#34;hextra-card-image&#34;
-        loading=&#34;lazy&#34;
-        decoding=&#34;async&#34;
-        src=&#34;http://localhost:1313/images/before_icons.webp&#34;
-        
-        
-        
-      /&gt;&lt;div class=&#34;hx:mt-auto&#34;&gt;
-      &lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Before the redesign&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Before programming, all of the icons belonging to Skillsicon had a URL to target only that specific icon of choice. When toggling themes, these icons are not &amp;lsquo;dynamic&amp;rsquo;.&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;
-  
-      &lt;a
-    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;&gt;&lt;img
-        alt=&#34;After the redesign&#34;
-        class=&#34;hextra-card-image&#34;
-        loading=&#34;lazy&#34;
-        decoding=&#34;async&#34;
-        src=&#34;http://localhost:1313/images/after_icons.webp&#34;
-        
-        
-        
-      /&gt;&lt;div class=&#34;hx:mt-auto&#34;&gt;
-      &lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;After the redesign&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;By adding another &amp;lsquo;img src&amp;rsquo; tag into the existing link tag and the classes I used for the logo, when toggling between light or dark, the icons will change to their appropriate theme.&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;
-
-&lt;/div&gt;
-
-&lt;h3&gt;Meet The New MediaPlay Ticker&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;meet-the-new-mediaplay-ticker&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#meet-the-new-mediaplay-ticker&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Have you noticed something different on the ticker that you always see on the home page? Well, that&amp;rsquo;s actually the MediaPlay ticker, where it displays all published articles from the newsletter, and guess what? &lt;strong&gt;The ticker has been redesigned from the ground up!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/new_ticker.webp&#34; title=&#34;Meet MediaPlay Ticker 2.0!&#34; alt=&#34;MediaPlay Ticker&#34;  loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;Meet MediaPlay Ticker 2.0!&lt;/figcaption&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;While the old version of the ticker is considered a prototype, there was an issue when the prototype of the ticker was used&amp;hellip;&lt;strong&gt;it was not responsive on smaller devices.&lt;/strong&gt; While facing some programming difficulty in retaining the size of the MediaPlay logo, some attempts were made to add a smaller version of the logo to ensure it&amp;rsquo;s simplified, but it underwent unsuccessful attempts due to the complexity of the classes I tried to use for the assets.&lt;/p&gt;
-&lt;p&gt;For this new ticker, with an additional container to show the logo and its brand-new tagline, the logo functionality remains the same. Clicking on the logo will take you to the MediaPlay page on the website. Also, note that this new ticker is responsive now, and it has been tested with no issues whatsoever.&lt;/p&gt;
-&lt;h2&gt;Improvements and Fixes&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;improvements-and-fixes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#improvements-and-fixes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Version 3.0&lt;/strong&gt; introduces the following fixes and improvements, that are aside from the new features that were disclosed in this post, but not limited to the following:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 72 72&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
-  &lt;rect width=&#34;72&#34; height=&#34;72&#34; rx=&#34;8&#34; fill=&#34;url(#paint0_linear_60_12)&#34;/&gt;
-  &lt;path d=&#34;M24 56C24 59.3137 21.3137 62 18 62C14.6863 62 12 59.3137 12 56C12 52.6863 14.6863 50 18 50C21.3137 50 24 52.6863 24 56Z&#34; fill=&#34;white&#34;/&gt;
-  &lt;path d=&#34;M12 38V30C40 30 45 51.3333 44 62H36C36 40.8 23.5 38 12 38Z&#34; fill=&#34;white&#34;/&gt;
-  &lt;path d=&#34;M12 22V14C54 14 60 46.5 60 62H52C52.4 28.4 25.5 21.3333 12 22Z&#34; fill=&#34;white&#34;/&gt;
-  &lt;defs&gt;
-    &lt;linearGradient id=&#34;paint0_linear_60_12&#34; x1=&#34;29&#34; y1=&#34;28.5&#34; x2=&#34;57.5&#34; y2=&#34;57&#34; gradientUnits=&#34;userSpaceOnUse&#34;&gt;
-      &lt;stop stop-color=&#34;#FC6D00&#34;/&gt;
-      &lt;stop offset=&#34;1&#34; stop-color=&#34;#FFC249&#34;/&gt;
-    &lt;/linearGradient&gt;
-  &lt;/defs&gt;
-&lt;/svg&gt;
-&lt;/span&gt;
- RSS icon is now in the website&amp;rsquo;s main navigation bar for instant access to our main site&amp;rsquo;s RSS feed.&lt;/li&gt;
-&lt;li&gt;The icon for the MediaPlay link on the navigation bar was fixed. Originally, in the previous build, when toggling light theme on, you basically see a straight-up play icon while the &amp;lsquo;M&amp;rsquo; inside the play icon is still black. By redoing the logo design on Figma, this icon has been fixed with the &amp;lsquo;M&amp;rsquo; as a cutout!&lt;/li&gt;
-&lt;li&gt;Updated social links and added additional icons in the &lt;code&gt;icons.yaml&lt;/code&gt; file that will eventually be used in the future.&lt;/li&gt;
-&lt;li&gt;Updated the &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-&lt;strong&gt;Help and Information&lt;/strong&gt; index page, replacing the image that was used on the homepage with the branding image that is used as our OpenGraph image.&lt;/li&gt;
-&lt;li&gt;Updated the 404 page; it may be a visual upgrade to align with our main brand&amp;rsquo;s tagline and theme.&lt;/li&gt;
-&lt;li&gt;Added fixed time zone as &lt;code&gt;timeZone: &#39;America/New_York&lt;/code&gt; to fix the date and time on each blog post that is published to the site, and also updated the &lt;code&gt;publishDate&lt;/code&gt; on every post.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Under The Code&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;under-the-code&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#under-the-code&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;When working on the idea to adapt the icons for both dark and light themes of the site, I discovered the classes that were part of the theme, as it uses Tailwind CSS as the prefix and utility classes. I originally thought those classes will apply to containers but it only works on images. Lesson learned!&lt;/p&gt;
-
-      </description>
-    </item>
     
     <item>
       <title>Indie Animations Have Been Wildly Trending</title>

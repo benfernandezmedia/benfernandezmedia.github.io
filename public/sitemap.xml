@@ -4,6 +4,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-09T00:17:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/help/</loc>
+    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/major-release/</loc>
+    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-06-09T00:17:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/updates/</loc>
+    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/help/updates/welcome-to-version3/</loc>
+    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/website/</loc>
+    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/help/updates/</loc>
+    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mediaplay/indie-animations-wildly-trending/</loc>
+    <lastmod>2026-06-09T00:17:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mediaplay/</loc>
+    <lastmod>2026-06-09T00:17:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mediaplay/</loc>
+    <lastmod>2026-06-09T00:17:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
@@ -11,14 +42,6 @@
   </url><url>
     <loc>http://localhost:1313/help/credits/</loc>
   </url><url>
-    <loc>http://localhost:1313/help/</loc>
-  </url><url>
-    <loc>http://localhost:1313/mediaplay/</loc>
-  </url><url>
     <loc>http://localhost:1313/help/qna/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/help/updates/</loc>
   </url>
 </urlset>

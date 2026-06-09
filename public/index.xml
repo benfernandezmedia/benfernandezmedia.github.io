@@ -6,6 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>© 2026 Benjamin Fernandez Media, All rights reserved.</copyright>
+    <lastBuildDate>Mon, 08 Jun 2026 20:41:00 -0400</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,6 +14,282 @@
       
       
     
+    
+    <item>
+      <title>v3.0 - Welcome to Version 3.0!</title>
+      <link>http://localhost:1313/help/updates/welcome-to-version3/</link>
+      <pubDate>Mon, 08 Jun 2026 20:41:00 -0400</pubDate>
+      
+      <guid>http://localhost:1313/help/updates/welcome-to-version3/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/updatebanners/updatebanner-v3.webp&#34; alt=&#34;Update Banner&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;After a long development week or two to fix improvements in the overall website experience, it is my pleasure to announce that the website has been officially updated to &lt;strong&gt;Version 3.0!&lt;/strong&gt; This update introduces some major changes to the site, including: a new ticker for &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em width=&#34;14&#34; height=&#34;14&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+  &lt;path d=&#34;M0 1.37025L4.03341 23.2794C4.5273 23.9904 5.59739 24.2274 6.17359 23.7534L18.7677 13.641V11.4289C18.7677 10.2439 17.9446 9.5798 16.8745 9.5798C15.4747 9.5798 14.8166 10.8759 14.8166 11.4289V16.7221H11.9356V11.4289C11.9356 10.6389 11.4417 9.57967 10.0424 9.57967C8.31377 9.57967 7.98451 10.9549 7.98451 11.4289V16.7221H5.1035V7.365H7.81988V8.34783C10.4539 6.05674 13.4996 7.6368 14.1581 8.74284C16.4664 6.25724 19.7555 7.08378 20.8256 8.58484C21.4889 9.34307 21.731 10.4019 21.6487 11.2709L23.4596 9.84888C24.2686 9.20952 24.0358 8.26883 23.6243 7.87381C23.295 7.5578 22.9529 7.43313 22.8834 7.39979C16.655 5.21405 3.78647 0.700353 2.14018 0.131532C0.493887 -0.437288 0 1.00054 0 1.37025Z&#34; fill=&#34;currentColor&#34;/&gt;
+&lt;/svg&gt;
+&lt;/span&gt;
+MediaPlay, improvements to some icons and dark mode, and an &lt;strong&gt;updated layout for the home page!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As I continue to work on the website to add new features and pages, this can eventually be populated with more content, especially for the MediaPlay newsletter, but for now, let&amp;rsquo;s enjoy what we have in this major update and &lt;em&gt;see what&amp;rsquo;s new on the official website of BFM!&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;New Features&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;new-features&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#new-features&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Redesigned Home Layout&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;redesigned-home-layout&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#redesigned-home-layout&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div
+  class=&#34;hextra-feature-grid hx:grid hx:sm:max-lg:grid-cols-2 hx:max-sm:grid-cols-1 hx:gap-4 hx:w-full not-prose&#34;
+  style=&#34;--hextra-feature-grid-cols: 2; margin-top: 14px;&#34;
+&gt;
+  
+  
+      &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;&gt;&lt;img
+        alt=&#34;Before the redesign&#34;
+        class=&#34;hextra-card-image&#34;
+        loading=&#34;lazy&#34;
+        decoding=&#34;async&#34;
+        src=&#34;http://localhost:1313/images/old_layout.webp&#34;
+        
+        
+        
+      /&gt;&lt;div class=&#34;hx:mt-auto&#34;&gt;
+      &lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Before the redesign&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
+  
+      &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;&gt;&lt;img
+        alt=&#34;After the redesign&#34;
+        class=&#34;hextra-card-image&#34;
+        loading=&#34;lazy&#34;
+        decoding=&#34;async&#34;
+        src=&#34;http://localhost:1313/images/new_layout.webp&#34;
+        
+        
+        
+      /&gt;&lt;div class=&#34;hx:mt-auto&#34;&gt;
+      &lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;After the redesign&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;After doing some research using the &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+ &lt;strong&gt;Developer Tools&lt;/strong&gt; on Chrome, I paid close attention to the image classes that control how both light and dark versions of my logo are viewed when the theme is toggled or how the theme behaves based on how your system is configured for dark mode.&lt;/p&gt;
+&lt;p&gt;By using &lt;code&gt;hx:hidden hx:dark:block&lt;/code&gt; for the dark logo and &lt;code&gt;hx:block hx:dark:hidden&lt;/code&gt; for the light logo, the former text that represents the brand is now replaced with the logo to ensure that the brand is more recognizable! Plus, the icons for the Not By AI badge and the stuff I use to make the site and content have also been updated with their appropriate classes!&lt;/p&gt;
+&lt;p&gt;For the icons that displayed the skills I use to make the site, I performed some trial and error when programming the icons to switch from light to dark by adding an additional container for the light-themed icons and trying to hide them when the theme is toggled. However, it didn&amp;rsquo;t work until &lt;strong&gt;I found a solution.&lt;/strong&gt;&lt;/p&gt;
+&lt;div
+  class=&#34;hextra-feature-grid hx:grid hx:sm:max-lg:grid-cols-2 hx:max-sm:grid-cols-1 hx:gap-4 hx:w-full not-prose&#34;
+  style=&#34;--hextra-feature-grid-cols: 2; margin-top: 14px;&#34;
+&gt;
+  
+  
+      &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;&gt;&lt;img
+        alt=&#34;Before the redesign&#34;
+        class=&#34;hextra-card-image&#34;
+        loading=&#34;lazy&#34;
+        decoding=&#34;async&#34;
+        src=&#34;http://localhost:1313/images/before_icons.webp&#34;
+        
+        
+        
+      /&gt;&lt;div class=&#34;hx:mt-auto&#34;&gt;
+      &lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Before the redesign&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Before programming, all of the icons belonging to Skillsicon had a URL to target only that specific icon of choice. When toggling themes, these icons are not &amp;lsquo;dynamic&amp;rsquo;.&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;
+  
+      &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;&gt;&lt;img
+        alt=&#34;After the redesign&#34;
+        class=&#34;hextra-card-image&#34;
+        loading=&#34;lazy&#34;
+        decoding=&#34;async&#34;
+        src=&#34;http://localhost:1313/images/after_icons.webp&#34;
+        
+        
+        
+      /&gt;&lt;div class=&#34;hx:mt-auto&#34;&gt;
+      &lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;After the redesign&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;By adding another &amp;lsquo;img src&amp;rsquo; tag into the existing link tag and the classes I used for the logo, when toggling between light or dark, the icons will change to their appropriate theme.&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;h3&gt;Meet The New MediaPlay Ticker&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;meet-the-new-mediaplay-ticker&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#meet-the-new-mediaplay-ticker&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Have you noticed something different on the ticker that you always see on the home page? Well, that&amp;rsquo;s actually the MediaPlay ticker, where it displays all published articles from the newsletter, and guess what? &lt;strong&gt;The ticker has been redesigned from the ground up!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/images/new_ticker.webp&#34; title=&#34;Meet MediaPlay Ticker 2.0!&#34; alt=&#34;MediaPlay Ticker&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Meet MediaPlay Ticker 2.0!&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;While the old version of the ticker is considered a prototype, there was an issue when the prototype of the ticker was used&amp;hellip;&lt;strong&gt;it was not responsive on smaller devices.&lt;/strong&gt; While facing some programming difficulty in retaining the size of the MediaPlay logo, some attempts were made to add a smaller version of the logo to ensure it&amp;rsquo;s simplified, but it underwent unsuccessful attempts due to the complexity of the classes I tried to use for the assets.&lt;/p&gt;
+&lt;p&gt;For this new ticker, with an additional container to show the logo and its brand-new tagline, the logo functionality remains the same. Clicking on the logo will take you to the MediaPlay page on the website. Also, note that this new ticker is responsive now, and it has been tested with no issues whatsoever.&lt;/p&gt;
+&lt;h2&gt;Improvements and Fixes&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;improvements-and-fixes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#improvements-and-fixes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Version 3.0&lt;/strong&gt; introduces the following fixes and improvements, that are aside from the new features that were disclosed in this post, but not limited to the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 72 72&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+  &lt;rect width=&#34;72&#34; height=&#34;72&#34; rx=&#34;8&#34; fill=&#34;url(#paint0_linear_60_12)&#34;/&gt;
+  &lt;path d=&#34;M24 56C24 59.3137 21.3137 62 18 62C14.6863 62 12 59.3137 12 56C12 52.6863 14.6863 50 18 50C21.3137 50 24 52.6863 24 56Z&#34; fill=&#34;white&#34;/&gt;
+  &lt;path d=&#34;M12 38V30C40 30 45 51.3333 44 62H36C36 40.8 23.5 38 12 38Z&#34; fill=&#34;white&#34;/&gt;
+  &lt;path d=&#34;M12 22V14C54 14 60 46.5 60 62H52C52.4 28.4 25.5 21.3333 12 22Z&#34; fill=&#34;white&#34;/&gt;
+  &lt;defs&gt;
+    &lt;linearGradient id=&#34;paint0_linear_60_12&#34; x1=&#34;29&#34; y1=&#34;28.5&#34; x2=&#34;57.5&#34; y2=&#34;57&#34; gradientUnits=&#34;userSpaceOnUse&#34;&gt;
+      &lt;stop stop-color=&#34;#FC6D00&#34;/&gt;
+      &lt;stop offset=&#34;1&#34; stop-color=&#34;#FFC249&#34;/&gt;
+    &lt;/linearGradient&gt;
+  &lt;/defs&gt;
+&lt;/svg&gt;
+&lt;/span&gt;
+ RSS icon is now in the website&amp;rsquo;s main navigation bar for instant access to our main site&amp;rsquo;s RSS feed.&lt;/li&gt;
+&lt;li&gt;The icon for the MediaPlay link on the navigation bar was fixed. Originally, in the previous build, when toggling light theme on, you basically see a straight-up play icon while the &amp;lsquo;M&amp;rsquo; inside the play icon is still black. By redoing the logo design on Figma, this icon has been fixed with the &amp;lsquo;M&amp;rsquo; as a cutout!&lt;/li&gt;
+&lt;li&gt;Updated social links and added additional icons in the &lt;code&gt;icons.yaml&lt;/code&gt; file that will eventually be used in the future.&lt;/li&gt;
+&lt;li&gt;Updated the &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+&lt;strong&gt;Help and Information&lt;/strong&gt; index page, replacing the image that was used on the homepage with the branding image that is used as our OpenGraph image.&lt;/li&gt;
+&lt;li&gt;Updated the 404 page; it may be a visual upgrade to align with our main brand&amp;rsquo;s tagline and theme.&lt;/li&gt;
+&lt;li&gt;Added fixed time zone as &lt;code&gt;timeZone: &#39;America/New_York&lt;/code&gt; to fix the date and time on each blog post that is published to the site, and also updated the &lt;code&gt;publishDate&lt;/code&gt; on every post.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Under The Code&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;under-the-code&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#under-the-code&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;When working on the idea to adapt the icons for both dark and light themes of the site, I discovered the classes that were part of the theme, as it uses Tailwind CSS as the prefix and utility classes. I originally thought those classes will apply to containers but it only works on images. Lesson learned!&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Indie Animations Have Been Wildly Trending</title>
+      <link>http://localhost:1313/mediaplay/indie-animations-wildly-trending/</link>
+      <pubDate>Wed, 20 May 2026 19:45:00 -0400</pubDate>
+      
+      <guid>http://localhost:1313/mediaplay/indie-animations-wildly-trending/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Welcome To MediaPlay&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;welcome-to-mediaplay&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#welcome-to-mediaplay&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/mediaplay/logo_banner.webp&#34; alt=&#34;MediaPlay Logo&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;strong&gt;Good evening, everyone!&lt;/strong&gt; Welcome to our brand newsletter called &lt;strong&gt;MediaPlay&lt;/strong&gt;, where I review the latest content and news related to what&amp;rsquo;s going on in the world of digital entertainment. My name is &lt;strong&gt;Crystal&lt;/strong&gt;, and I am your main hostess of the newsletter here on the &lt;strong&gt;BFM website&lt;/strong&gt; and also on &lt;strong&gt;Patreon&lt;/strong&gt;, and this first issue is going to be packed with the recent indie animations that were published last week and have been getting popular with a wild trend around social media!&lt;/p&gt;
+&lt;p&gt;I have to say that last week has been crazy through the fandoms from both &lt;strong&gt;GLITCH Productions&lt;/strong&gt; and the crazy gang over from &lt;strong&gt;SpindleHorse Toons&lt;/strong&gt; with their shows on &lt;em&gt;YouTube, Amazon Prime Video,&lt;/em&gt; and &lt;em&gt;Netflix&lt;/em&gt;. For the center of it all, for last week, we have travelled back in time with a brand new pilot that &lt;em&gt;came from the Y2K&lt;/em&gt; from artist and creator &lt;strong&gt;Rafael Andaya!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Before &lt;em&gt;the MediaPlay team&lt;/em&gt; and I published our first issue, to review the content that was recently published, we were immediately stunned, or maybe flabbergasted by SpindleHorse, that the fans of one of their shows, &lt;strong&gt;Helluva Boss&lt;/strong&gt;, expected a short related to one of the hot characters of the show, Verosika Mayday, until unfortunately we got &lt;strong&gt;Chaz&amp;rsquo;d&amp;hellip;again!&lt;/strong&gt; We&amp;rsquo;ll explain about that later in the issue. &lt;em&gt;Enough intro! Time to dive right in and let&amp;rsquo;s play!&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Returning To The Nostalgia With A New Pilot&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;returning-to-the-nostalgia-with-a-new-pilot&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#returning-to-the-nostalgia-with-a-new-pilot&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Ah yes, the early 2000s&amp;hellip;the millennium&amp;hellip;we knew the vibes of early childhood were returning, but with an indie twist too! Last Monday, the fans and viewers of indie animation were stoked with a new pilot episode from artist and creator, &lt;strong&gt;Rafael Andaya&lt;/strong&gt;, with their new show called &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;em&gt;PLANETRONIKA&lt;/em&gt;, an early-Y2K sci-fi comedy featuring two cool-looking characters that have been on the buzz throughout the week. What we have here is &lt;em&gt;a sneak preview video of the pilot episode! &lt;strong&gt;Take a look!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+    
+  
+  
+  
+  
+  
+    
+      
+    
+  
+
+
+
+
+  
+
+
+
+&lt;figure class=&#34;bfm-video-shortcode&#34; style=&#34;position:relative; max-width:100%; margin-top: 14px; margin-bottom: 14px;&#34;&gt;
+  &lt;video
+    
+    
+    
+    
+    playsinline
+    preload=&#34;metadata&#34;
+    style=&#34;width: 100%; height: auto; display: block; margin:0 auto;&#34;
+    title=&#34;PLANETRONIKA Preview Video&#34;
+    onplay=&#34;var btn=this.closest(&#39;.bfm-video-shortcode&#39;).querySelector(&#39;.bfm-video-play-button&#39;); if(btn){btn.innerText=&#39;❚❚&#39;;}&#34; onpause=&#34;var btn=this.closest(&#39;.bfm-video-shortcode&#39;).querySelector(&#39;.bfm-video-play-button&#39;); if(btn){btn.innerText=&#39;▶&#39;;}&#34; onended=&#34;var btn=this.closest(&#39;.bfm-video-shortcode&#39;).querySelector(&#39;.bfm-video-play-button&#39;); if(btn){btn.innerText=&#39;↻&#39;;}&#34;
+    poster=&#34;https://raw.githubusercontent.com/benfernandezmedia/mediaplay-database/refs/heads/main/mediaplay-issue01/thumbnail.png&#34;&gt;
+    &lt;source src=&#34;https://raw.githubusercontent.com/benfernandezmedia/mediaplay-database/main/mediaplay-issue01/mp_planetronika.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    Your browser does not support embedded videos.
+  &lt;/video&gt;
+  
+    &lt;button
+      type=&#34;button&#34;
+      class=&#34;bfm-video-play-button&#34;
+      onclick=&#34;var v=this.closest(&#39;.bfm-video-shortcode&#39;).querySelector(&#39;video&#39;); if(v){ if(v.ended){ v.currentTime=0; v.play(); this.innerText=&#39;❚❚&#39;; } else if(v.paused){ v.play(); this.innerText=&#39;❚❚&#39;; } else { v.pause(); this.innerText=&#39;▶&#39;; } }&#34;
+      onmouseenter=&#34;var v=this.closest(&#39;.bfm-video-shortcode&#39;).querySelector(&#39;video&#39;); if(v){ this.innerText=v.ended?&#39;↻&#39;:v.paused?&#39;▶&#39;:&#39;❚❚&#39;; }&#34;
+      style=&#34;position:absolute; inset:0; margin:auto; width:76px; height:76px; min-width:76px; min-height:76px; border-radius:50%; border:none; background:rgba(0,0,0,.65); color:#fff; font-size:2rem; opacity:0; pointer-events:none; transition:opacity .2s ease-in-out; display:flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 12px 28px rgba(0,0,0,.32);&#34;&gt;
+      ▶
+    &lt;/button&gt;
+    &lt;style&gt;
+      .bfm-video-shortcode:hover .bfm-video-play-button {
+        opacity: 1 !important;
+        pointer-events: auto !important;
+      }
+    &lt;/style&gt;
+  
+  
+&lt;/figure&gt;
+&lt;h3&gt;Plot of the PLANETRONIKA Pilot Episode&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;plot-of-the-planetronika-pilot-episode&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#plot-of-the-planetronika-pilot-episode&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Taking place on a fictional planet called Tereste with its early Y2K vibes, two friends named Butterfly and Freestyle decided to take a break from work and challenge each other with a game of basketball! Unfortunately, their usual game gets chaotic with a dribble malfunction as the ball goes haywire in their surroundings.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s not usual for a plot like this where a game of basketball gets deadly after one malfunction, but in the world of PLANETRONIKA, it takes a go of a misadventure with a big twist of millennium fun!&lt;/p&gt;
+&lt;h3&gt;The pilot episode is filled with classic memes and references&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-pilot-episode-is-filled-with-classic-memes-and-references&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-pilot-episode-is-filled-with-classic-memes-and-references&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Well then&amp;hellip; it seems like this show has a lot of well-known memes and references from the early-2000s internet back in the day.&lt;/em&gt; For those who were born as Generation Z (people who were born in 2000), you may recognize some memes and references throughout the pilot episode, like the &lt;em&gt;split-second troll face, the three guys on a planet (which I do not know the name of), and, of course, the Caramelldansen dance&lt;/em&gt; performed by Butterfly. &lt;em&gt;Have you found them all in the episode?&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;The Media Verdict for PLANETRONIKA&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-media-verdict-for-planetronika&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-media-verdict-for-planetronika&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Ayeiyaiya, I&amp;rsquo;m your little butterfly~ Oh, sorry! I zoned out a bit there. Y2K will always be embedded in the Generation Z DNA.&lt;/em&gt; Anyway, since the show had demonstrated the vibes of old-fashioned Y2K shows based on its look and feel on the world-building, characters, plot, and setting, &lt;em&gt;MediaPlay&lt;/em&gt; gives &lt;strong&gt;Rafael Andaya&amp;rsquo;s PLANETRONIKA&lt;/strong&gt; an 11 out of 10 with an average scale of A+! The extra point was given since a lot of detail and remembrance of nostalgia were put in during the making of the pilot episode!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;To check out the full pilot episode of PLANETRONIKA, watch the full pilot only on YouTube!&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Video Games Are Everything&amp;hellip;But In A Deadly Twist&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;video-games-are-everythingbut-in-a-deadly-twist&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#video-games-are-everythingbut-in-a-deadly-twist&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://raw.githubusercontent.com/benfernandezmedia/mediaplay-database/refs/heads/main/mediaplay-issue01/gameoverse.webp&#34; title=&#34;Official cover art for Gameoverse featuring Kit and other characters.&#34; alt=&#34;Gameoverse&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Official cover art for Gameoverse featuring Kit and other characters.&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;While &lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;strong&gt;GLITCH Productions&lt;/strong&gt; is focusing on stuff related to the final episode of &lt;em&gt;The Amazing Digital Circus&lt;/em&gt; and its theatrical debut for the premiere of both Episodes 8 and 9 across the world this summer, they have released a new show called &lt;em&gt;Gameoverse&lt;/em&gt; that was created and directed by &lt;strong&gt;Ross O&amp;rsquo;Donovan&lt;/strong&gt;, while &lt;strong&gt;Arin Hanson&lt;/strong&gt;, who is famously known online as the co-host of &lt;em&gt;Game Grumps&lt;/em&gt; on YouTube, co-written the show. This action-packed adventure consists of the idea of where video games meet the apocalypse, as each game world gets destroyed if that world doesn&amp;rsquo;t get saved in time.&lt;/p&gt;
+&lt;p&gt;As the show was released on Friday last week, that has been reports that fans were starting to see a bit of &lt;em&gt;fan service&lt;/em&gt; from the episode since it was actually a beach episode, and then there was some backlash over the design choices for both Kit and Miss Information on numerous posts on Twitter.&lt;/p&gt;
+&lt;p&gt;Although the show looked pretty good, and the character designs and world-building have been put in a lot of hard work by the team over at GLITCH.&lt;/p&gt;
+&lt;h3&gt;MEDIA BREAKING: TADC Episode 9 Got LEAKED!&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;media-breaking-tadc-episode-9-got-leaked&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#media-breaking-tadc-episode-9-got-leaked&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/benfernandezmedia/mediaplay-database/refs/heads/main/mediaplay-issue02/tadclastact.png&#34; alt=&#34;TADC&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What!? MediaPlay has started its first issue, and now we have breaking news already over The Amazing Digital Circus? Man, that was pretty fast!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Well then&amp;hellip;this is surprisingly shocking, and also a big spoiler in a way, so by the time of posting our first issue, not too long ago, on YouTube through a post by &lt;strong&gt;Ayy Lmao&lt;/strong&gt;, it was revealed that someone had leaked the final episode of TADC online before its theatrical release. As this sounds pretty bad, this will most likely spread everywhere online, and it can result in the leaks being removed by either GLITCH Productions or Gooseworx submitting a DMCA copyright takedown to avoid the leaks from spreading.&lt;/p&gt;
+&lt;p&gt;At MediaPlay, in my defense as a host, publishing unreleased material from an overrated show can lead to some spoilers, and people can have serious reactions to what the ending would be from the show. I advise not to look at the leaks that are spreading online and wait until the actual premiere of the final episode of TADC in your local movie theater, on YouTube, and potentially on Netflix.&lt;/p&gt;
+&lt;h2&gt;The Fans of Helluva Boss Got Chaz&amp;rsquo;d&amp;hellip;once again&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-fans-of-helluva-boss-got-chazdonce-again&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-fans-of-helluva-boss-got-chazdonce-again&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://raw.githubusercontent.com/benfernandezmedia/mediaplay-database/refs/heads/main/mediaplay-issue01/helluvaboss_short12.webp&#34; title=&#34;Official YouTube thumbnail for the Helluva Boss short titled &amp;#39;Sharkboy Summer&amp;#39; &#34; alt=&#34;Sharkboy Summer&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Official YouTube thumbnail for the Helluva Boss short titled &amp;#39;Sharkboy Summer&amp;#39; &lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I&amp;rsquo;m almost done here on this first issue, but now we are entering VivziePop territory&lt;/em&gt; as Friday is also marked with a new release of a 12th short, or basically a music video from SpindleHorse&amp;rsquo;s show, &lt;em&gt;Helluva Boss.&lt;/em&gt; Originally, the social channels of &lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;SpindleHorse posted an image of what fans had assumed that the next short would involve, Verosika Mayday, due to the appearance of a character shown from an underwater perspective at a local pool.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://raw.githubusercontent.com/benfernandezmedia/mediaplay-database/refs/heads/main/mediaplay-issue01/twitterpost.png&#34; title=&#34;The initial Twitter post in regards to the release date of the short.&#34; alt=&#34;TwitterPost&#34;  loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;The initial Twitter post in regards to the release date of the short.&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;However, that all changed when &lt;strong&gt;Eric Schwartz&lt;/strong&gt;, the voice of Chaz, whose character had recently appeared in the April Fools short and in the earlier episodes of the show, posted on social media, sharing a hint that it&amp;rsquo;s not Verosika while he was swimming in a pool.&lt;/p&gt;
+&lt;p&gt;So it appears that Chaz or Zahc or &lt;em&gt;whatever the F@#K his name is&lt;/em&gt;, was most likely to appear again for the new short. On the day of the shorts&amp;rsquo; release, the entire HB fandom got flabbergasted by a new music video titled &amp;ldquo;Sharkboy Summer&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;In all honesty, I have confirmed in my suspicions that Chaz is NOT dead in a way, although he had his teeth ripped by Moxxie&amp;rsquo;s father in one of the episodes, which has been revealed in the previous short, and has shark dentures.&lt;/em&gt; But we will never know whether it&amp;rsquo;s &lt;strong&gt;actually&lt;/strong&gt; him or his so-called twin brother, nor whether he is actually DEAD, that may not stop him from his game of being the most perverted character throughout the entire series. But that&amp;rsquo;s just my opinion in a way, not to be disrespectful to the show&amp;rsquo;s VAs and the main creator.&lt;/p&gt;
+&lt;p&gt;All I can say is that the funeral was basically a setup so that Chaz could fool everyone and get away with it, and probably gonna be continuing bragging about his big appendage. Obviously, that is the context of the music video, as this is &lt;em&gt;technically&lt;/em&gt; a song of Chaz&amp;rsquo;s seductive territory. But to put this positively, it&amp;rsquo;s also to note that we get to see the Envy ring for the very first time. In all strong honesty, most people, including myself, had fair shares of seeing weird things around the internet and mostly stuff in the show, but this was &lt;em&gt;WAYYYYYY&lt;/em&gt; overboard, so the short was &lt;strong&gt;too much Chaz&lt;/strong&gt;, &lt;em&gt;if you know what I mean.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Overall, aside from that seductive weirdo, we are still looking forward to the upcoming seasons of Helluva Boss and also the new seasons of Hazbin Hotel from SpindleHorse, which will be coming soon on YouTube and on Amazon Prime Video. Please continue to follow the social channels of SpindleHorse for more updates and details regarding the Helluvaverse.&lt;/p&gt;
+&lt;h2&gt;Wrapping Up The Media&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;wrapping-up-the-media&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#wrapping-up-the-media&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;Well, that&amp;rsquo;s all we have for the first issue for tonight. Seems like the indie animation stuff has gone wild in a way, based on the context of the fandom and also the shorts, too. But for PLANETRONIKA, we may see more of that in the distant future and see how it goes for its development.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;MediaPlay will have more content to cover real soon in the next issue, so stay tuned on the website and on Patreon to get the latest coverage of what&amp;rsquo;s going on in the digital entertainment world! Plus, we may start covering stuff related to gaming along the way, and some movie reviews based on interest.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Thanks for reading MediaPlay from Benjamin Fernandez Media!&lt;/em&gt; &lt;strong&gt;Good night, everyone!&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;This issue has been rewritten to fix proofreading and spelling errors in some segments of the content that have been discussed or reviewed.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;PLANETRONIKA The Animation and its pilot episode belong to Rafael Andaya&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Gameoverse and The Amazing Digital Circus belong to GLITCH Productions, Gooseworx, and Ross O&amp;rsquo;Donovan&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;Helluva Boss and Hazbin Hotel belong to SpindleHorse Toons and are created by Vivienne Medrano.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
     
   </channel>
 </rss>
