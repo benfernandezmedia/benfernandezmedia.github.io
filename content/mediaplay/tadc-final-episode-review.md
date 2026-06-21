@@ -8,6 +8,8 @@ authors:
     image: /images/authors/mediaplayteam.png
 publishDate: 2026-06-19T19:21:00
 lastmod: 2026-06-20T17:30:00
+sidebar:
+  hide: true
 tags:
   - mediaplay
 ---
