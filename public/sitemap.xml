@@ -1,47 +1,49 @@
-
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://benfernandezmedia.github.io/</loc>
+    <lastmod>2026-06-20T17:30:00-04:00</lastmod>
+  </url><url>
+    <loc>https://benfernandezmedia.github.io/tags/mediaplay/</loc>
+    <lastmod>2026-06-20T17:30:00-04:00</lastmod>
+  </url><url>
+    <loc>https://benfernandezmedia.github.io/mediaplay/</loc>
+    <lastmod>2026-06-20T17:30:00-04:00</lastmod>
+  </url><url>
+    <loc>https://benfernandezmedia.github.io/tags/</loc>
+    <lastmod>2026-06-20T17:30:00-04:00</lastmod>
+  </url><url>
+    <loc>https://benfernandezmedia.github.io/mediaplay/tadc-final-episode-review/</loc>
+    <lastmod>2026-06-20T17:30:00-04:00</lastmod>
+  </url><url>
+    <loc>https://benfernandezmedia.github.io/help/</loc>
+    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
+  </url><url>
+    <loc>https://benfernandezmedia.github.io/tags/major-release/</loc>
+    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
+  </url><url>
+    <loc>https://benfernandezmedia.github.io/tags/updates/</loc>
+    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
+  </url><url>
+    <loc>https://benfernandezmedia.github.io/help/updates/welcome-to-version3/</loc>
+    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
+  </url><url>
+    <loc>https://benfernandezmedia.github.io/tags/website/</loc>
+    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
+  </url><url>
+    <loc>https://benfernandezmedia.github.io/help/updates/</loc>
+    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
+  </url><url>
+    <loc>https://benfernandezmedia.github.io/mediaplay/indie-animations-wildly-trending/</loc>
     <lastmod>2026-06-09T00:17:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/help/</loc>
-    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
+    <loc>https://benfernandezmedia.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/major-release/</loc>
-    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
+    <loc>https://benfernandezmedia.github.io/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-06-09T00:17:00-04:00</lastmod>
+    <loc>https://benfernandezmedia.github.io/help/credits/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/updates/</loc>
-    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/help/updates/welcome-to-version3/</loc>
-    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/website/</loc>
-    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/help/updates/</loc>
-    <lastmod>2026-06-08T20:41:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mediaplay/indie-animations-wildly-trending/</loc>
-    <lastmod>2026-06-09T00:17:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/mediaplay/</loc>
-    <lastmod>2026-06-09T00:17:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mediaplay/</loc>
-    <lastmod>2026-06-09T00:17:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-  </url><url>
-    <loc>http://localhost:1313/help/credits/</loc>
-  </url><url>
-    <loc>http://localhost:1313/help/qna/</loc>
+    <loc>https://benfernandezmedia.github.io/help/qna/</loc>
   </url>
 </urlset>
