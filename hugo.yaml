@@ -119,10 +119,7 @@ params:
     - og_preview.png
 
   # Banner Settings
-  banner:
-    key: 'announcement-v300'
-    message: |
-      **Version 3.0 is here!** Check the [update post!](/help/updates/welcome-to-version3)
+  # Removed until next major update!
 
   # Global Theme Settings
   theme:
@@ -171,8 +168,8 @@ params:
     displayTitle: false
     displayLogo: true
     logo:
-      path: /images/navbar/logo.svg
-      dark: /images/navbar/logoDark.svg
+      path: /images/navbar/bfmonlinelogo.svg
+      dark: /images/navbar/bfmonlinelogo_dark.svg
       link: /
       width: 230
       height: 20
@@ -180,6 +177,6 @@ params:
 
   # Footer Settings
   footer:
-    displayPoweredBy: true
-    displayCopyright: true
+    displayPoweredBy: false
+    displayCopyright: false
     width: wide
